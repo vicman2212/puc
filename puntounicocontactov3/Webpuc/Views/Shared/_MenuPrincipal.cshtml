@@ -1,0 +1,47 @@
+﻿@*
+    Menu de actividades principales en el sistema PUC
+*@
+@inject Microsoft.AspNetCore.Http.IHttpContextAccessor HttpContextAccessor;
+@{
+    var FullName = HttpContextAccessor.HttpContext.User.Identity.Name;
+}
+<div>
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <div class="container-fluid">
+            <a class="navbar-brand" asp-controller="Home" asp-action="Logout"><img src="http://apps.firco.gob.mx/icons/puc/home.png" class="icon-sm m-3" /> Salir</a>
+            <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+                <div class="navbar-nav">
+                    <a class="nav-link active" aria-current="page" href="~/Acceso/ResetPasword" style="color:#9d2449">
+                        <img src="http://apps.firco.gob.mx/icons/puc/actualizar-flecha.png" class="icon-sm" />Cambiar Contraseña
+                    </a>
+                    
+                    <a target="_blank" class="nav-link active" aria-current="page" href="http://sipot.firco.gob.mx/FIRCODOCS/Manuales/PUC_Manual_Usuarios.pdf" style="color:#b38e5d">
+                        <img src="http://apps.firco.gob.mx/icons/puc/descargar.png" class="icon-sm" /> Manual
+                    </a>
+                    
+                    <a class="nav-link active" asp-controller="Directorio" asp-action="DirectorioFIRCO">
+                        <img src="http://apps.firco.gob.mx/icons/puc/dir-tel.png" class="icon-sm" /> <strong>DIRECTORIO</strong>
+                    </a>
+                </div>
+            </div>
+        </div>
+        <div class="container-fluid text-end" style="width:40%">
+            @* Si esta logeado el usuario *@
+            @if (HttpContextAccessor.HttpContext.User.Identity.IsAuthenticated)
+            {
+            <div>
+                <div>
+                    <img src="http://apps.firco.gob.mx/icons/puc/usuario-de-perfil.png" class="icon-sm" /><span><strong>@FullName</strong></span>
+                </div>            
+                <div class="col">
+                    <a class="btn btn-dark" asp-controller="Home" asp-action="Logout">CERRAR SESIÓN</a>
+                </div>
+            </div>
+            }
+        </div>
+    </nav>
+
+ 
+
+
+</div>

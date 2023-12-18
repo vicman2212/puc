@@ -1,0 +1,17 @@
+C:\Users\Empleado\Documents\Visual Studio 2022\0-ProyProduccion\puntounicocontactov3_Production\Message\bin\Release\net7.0\Message.deps.json
+C:\Users\Empleado\Documents\Visual Studio 2022\0-ProyProduccion\puntounicocontactov3_Production\Message\bin\Release\net7.0\Message.dll
+C:\Users\Empleado\Documents\Visual Studio 2022\0-ProyProduccion\puntounicocontactov3_Production\Message\bin\Release\net7.0\Message.pdb
+C:\Users\Empleado\Documents\Visual Studio 2022\0-ProyProduccion\puntounicocontactov3_Production\Message\obj\Release\net7.0\Message.csproj.AssemblyReference.cache
+C:\Users\Empleado\Documents\Visual Studio 2022\0-ProyProduccion\puntounicocontactov3_Production\Message\obj\Release\net7.0\Message.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Empleado\Documents\Visual Studio 2022\0-ProyProduccion\puntounicocontactov3_Production\Message\obj\Release\net7.0\Message.AssemblyInfoInputs.cache
+C:\Users\Empleado\Documents\Visual Studio 2022\0-ProyProduccion\puntounicocontactov3_Production\Message\obj\Release\net7.0\Message.AssemblyInfo.cs
+C:\Users\Empleado\Documents\Visual Studio 2022\0-ProyProduccion\puntounicocontactov3_Production\Message\obj\Release\net7.0\Message.csproj.CoreCompileInputs.cache
+C:\Users\Empleado\Documents\Visual Studio 2022\0-ProyProduccion\puntounicocontactov3_Production\Message\obj\Release\net7.0\Message.dll
+C:\Users\Empleado\Documents\Visual Studio 2022\0-ProyProduccion\puntounicocontactov3_Production\Message\obj\Release\net7.0\refint\Message.dll
+C:\Users\Empleado\Documents\Visual Studio 2022\0-ProyProduccion\puntounicocontactov3_Production\Message\obj\Release\net7.0\Message.pdb
+C:\Users\Empleado\Documents\Visual Studio 2022\0-ProyProduccion\puntounicocontactov3_Production\Message\obj\Release\net7.0\ref\Message.dll
+C:\Users\Empleado\Documents\Visual Studio 2022\0-ProyProduccion\puntounicocontactov3_Production\Message\bin\Release\net7.0\BuildDataFromDb.dll
+C:\Users\Empleado\Documents\Visual Studio 2022\0-ProyProduccion\puntounicocontactov3_Production\Message\bin\Release\net7.0\ContextDataBase.dll
+C:\Users\Empleado\Documents\Visual Studio 2022\0-ProyProduccion\puntounicocontactov3_Production\Message\bin\Release\net7.0\BuildDataFromDb.pdb
+C:\Users\Empleado\Documents\Visual Studio 2022\0-ProyProduccion\puntounicocontactov3_Production\Message\bin\Release\net7.0\ContextDataBase.pdb
+C:\Users\Empleado\Documents\Visual Studio 2022\0-ProyProduccion\puntounicocontactov3_Production\Message\obj\Release\net7.0\Message.csproj.CopyComplete

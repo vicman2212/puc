@@ -1,0 +1,12 @@
+﻿@*
+    Menu principal para el Equipo de Respuesta ante Incidentes de Seguridad de la Informacion
+*@
+@inject Microsoft.AspNetCore.Http.IHttpContextAccessor HttpContextAccessor;
+@{
+    ViewData["title"] = "ERISC";
+}
+<div class="alert alert-info text-center">Equipo de Respuesta ante Incidentes de Seguirdad de la Información</div>
+<partial name="_MenuPrincipal" />
+<partial name="_FichaUsuario" />
+@await Component.InvokeAsync("ModuleAccess",
+                            Int32.Parse(HttpContextAccessor.HttpContext.User.FindFirst("Id").Value.ToString()))

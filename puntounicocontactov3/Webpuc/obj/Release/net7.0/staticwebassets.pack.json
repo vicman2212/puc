@@ -1,0 +1,1709 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\obj\\Release\\net7.0\\scopedcss\\projectbundle\\Webpuc.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Webpuc.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\css\\customForms.css",
+      "PackagePath": "staticwebassets\\css\\customForms.css"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\js\\app.js",
+      "PackagePath": "staticwebassets\\js\\app.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\js\\events\\evnt-click.js",
+      "PackagePath": "staticwebassets\\js\\events\\evnt-click.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\js\\events\\evnt-select.js",
+      "PackagePath": "staticwebassets\\js\\events\\evnt-select.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\js\\soket.js",
+      "PackagePath": "staticwebassets\\js\\soket.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\AutoFill-2.3.5\\css\\autoFill.bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\AutoFill-2.3.5\\css\\autoFill.bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\AutoFill-2.3.5\\css\\autoFill.bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\AutoFill-2.3.5\\css\\autoFill.bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\AutoFill-2.3.5\\css\\autoFill.bootstrap4.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\AutoFill-2.3.5\\css\\autoFill.bootstrap4.css"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\AutoFill-2.3.5\\css\\autoFill.bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\AutoFill-2.3.5\\css\\autoFill.bootstrap4.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\AutoFill-2.3.5\\css\\autoFill.dataTables.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\AutoFill-2.3.5\\css\\autoFill.dataTables.css"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\AutoFill-2.3.5\\css\\autoFill.dataTables.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\AutoFill-2.3.5\\css\\autoFill.dataTables.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\AutoFill-2.3.5\\css\\autoFill.foundation.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\AutoFill-2.3.5\\css\\autoFill.foundation.css"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\AutoFill-2.3.5\\css\\autoFill.foundation.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\AutoFill-2.3.5\\css\\autoFill.foundation.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\AutoFill-2.3.5\\css\\autoFill.jqueryui.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\AutoFill-2.3.5\\css\\autoFill.jqueryui.css"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\AutoFill-2.3.5\\css\\autoFill.jqueryui.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\AutoFill-2.3.5\\css\\autoFill.jqueryui.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\AutoFill-2.3.5\\css\\autoFill.semanticui.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\AutoFill-2.3.5\\css\\autoFill.semanticui.css"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\AutoFill-2.3.5\\css\\autoFill.semanticui.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\AutoFill-2.3.5\\css\\autoFill.semanticui.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\AutoFill-2.3.5\\js\\autoFill.bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\AutoFill-2.3.5\\js\\autoFill.bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\AutoFill-2.3.5\\js\\autoFill.bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\AutoFill-2.3.5\\js\\autoFill.bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\AutoFill-2.3.5\\js\\autoFill.bootstrap4.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\AutoFill-2.3.5\\js\\autoFill.bootstrap4.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\AutoFill-2.3.5\\js\\autoFill.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\AutoFill-2.3.5\\js\\autoFill.bootstrap4.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\AutoFill-2.3.5\\js\\autoFill.foundation.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\AutoFill-2.3.5\\js\\autoFill.foundation.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\AutoFill-2.3.5\\js\\autoFill.foundation.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\AutoFill-2.3.5\\js\\autoFill.foundation.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\AutoFill-2.3.5\\js\\autoFill.jqueryui.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\AutoFill-2.3.5\\js\\autoFill.jqueryui.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\AutoFill-2.3.5\\js\\autoFill.jqueryui.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\AutoFill-2.3.5\\js\\autoFill.jqueryui.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\AutoFill-2.3.5\\js\\autoFill.semanticui.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\AutoFill-2.3.5\\js\\autoFill.semanticui.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\AutoFill-2.3.5\\js\\autoFill.semanticui.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\AutoFill-2.3.5\\js\\autoFill.semanticui.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\AutoFill-2.3.5\\js\\dataTables.autoFill.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\AutoFill-2.3.5\\js\\dataTables.autoFill.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\AutoFill-2.3.5\\js\\dataTables.autoFill.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\AutoFill-2.3.5\\js\\dataTables.autoFill.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\Buttons-1.6.2\\css\\buttons.bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Buttons-1.6.2\\css\\buttons.bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\Buttons-1.6.2\\css\\buttons.bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Buttons-1.6.2\\css\\buttons.bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\Buttons-1.6.2\\css\\buttons.bootstrap4.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Buttons-1.6.2\\css\\buttons.bootstrap4.css"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\Buttons-1.6.2\\css\\buttons.bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Buttons-1.6.2\\css\\buttons.bootstrap4.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\Buttons-1.6.2\\css\\buttons.dataTables.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Buttons-1.6.2\\css\\buttons.dataTables.css"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\Buttons-1.6.2\\css\\buttons.dataTables.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Buttons-1.6.2\\css\\buttons.dataTables.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\Buttons-1.6.2\\css\\buttons.foundation.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Buttons-1.6.2\\css\\buttons.foundation.css"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\Buttons-1.6.2\\css\\buttons.foundation.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Buttons-1.6.2\\css\\buttons.foundation.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\Buttons-1.6.2\\css\\buttons.jqueryui.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Buttons-1.6.2\\css\\buttons.jqueryui.css"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\Buttons-1.6.2\\css\\buttons.jqueryui.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Buttons-1.6.2\\css\\buttons.jqueryui.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\Buttons-1.6.2\\css\\buttons.semanticui.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Buttons-1.6.2\\css\\buttons.semanticui.css"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\Buttons-1.6.2\\css\\buttons.semanticui.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Buttons-1.6.2\\css\\buttons.semanticui.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\Buttons-1.6.2\\css\\common.scss",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Buttons-1.6.2\\css\\common.scss"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\Buttons-1.6.2\\css\\mixins.scss",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Buttons-1.6.2\\css\\mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\Buttons-1.6.2\\js\\buttons.bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Buttons-1.6.2\\js\\buttons.bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\Buttons-1.6.2\\js\\buttons.bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Buttons-1.6.2\\js\\buttons.bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\Buttons-1.6.2\\js\\buttons.bootstrap4.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Buttons-1.6.2\\js\\buttons.bootstrap4.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\Buttons-1.6.2\\js\\buttons.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Buttons-1.6.2\\js\\buttons.bootstrap4.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\Buttons-1.6.2\\js\\buttons.colVis.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Buttons-1.6.2\\js\\buttons.colVis.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\Buttons-1.6.2\\js\\buttons.colVis.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Buttons-1.6.2\\js\\buttons.colVis.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\Buttons-1.6.2\\js\\buttons.flash.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Buttons-1.6.2\\js\\buttons.flash.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\Buttons-1.6.2\\js\\buttons.flash.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Buttons-1.6.2\\js\\buttons.flash.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\Buttons-1.6.2\\js\\buttons.foundation.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Buttons-1.6.2\\js\\buttons.foundation.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\Buttons-1.6.2\\js\\buttons.foundation.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Buttons-1.6.2\\js\\buttons.foundation.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\Buttons-1.6.2\\js\\buttons.html5.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Buttons-1.6.2\\js\\buttons.html5.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\Buttons-1.6.2\\js\\buttons.html5.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Buttons-1.6.2\\js\\buttons.html5.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\Buttons-1.6.2\\js\\buttons.jqueryui.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Buttons-1.6.2\\js\\buttons.jqueryui.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\Buttons-1.6.2\\js\\buttons.jqueryui.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Buttons-1.6.2\\js\\buttons.jqueryui.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\Buttons-1.6.2\\js\\buttons.print.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Buttons-1.6.2\\js\\buttons.print.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\Buttons-1.6.2\\js\\buttons.print.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Buttons-1.6.2\\js\\buttons.print.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\Buttons-1.6.2\\js\\buttons.semanticui.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Buttons-1.6.2\\js\\buttons.semanticui.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\Buttons-1.6.2\\js\\buttons.semanticui.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Buttons-1.6.2\\js\\buttons.semanticui.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\Buttons-1.6.2\\js\\dataTables.buttons.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Buttons-1.6.2\\js\\dataTables.buttons.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\Buttons-1.6.2\\js\\dataTables.buttons.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Buttons-1.6.2\\js\\dataTables.buttons.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\Buttons-1.6.2\\swf\\flashExport.swf",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Buttons-1.6.2\\swf\\flashExport.swf"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\ColReorder-1.5.2\\css\\colReorder.bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\ColReorder-1.5.2\\css\\colReorder.bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\ColReorder-1.5.2\\css\\colReorder.bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\ColReorder-1.5.2\\css\\colReorder.bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\ColReorder-1.5.2\\css\\colReorder.bootstrap4.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\ColReorder-1.5.2\\css\\colReorder.bootstrap4.css"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\ColReorder-1.5.2\\css\\colReorder.bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\ColReorder-1.5.2\\css\\colReorder.bootstrap4.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\ColReorder-1.5.2\\css\\colReorder.dataTables.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\ColReorder-1.5.2\\css\\colReorder.dataTables.css"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\ColReorder-1.5.2\\css\\colReorder.dataTables.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\ColReorder-1.5.2\\css\\colReorder.dataTables.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\ColReorder-1.5.2\\css\\colReorder.foundation.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\ColReorder-1.5.2\\css\\colReorder.foundation.css"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\ColReorder-1.5.2\\css\\colReorder.foundation.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\ColReorder-1.5.2\\css\\colReorder.foundation.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\ColReorder-1.5.2\\css\\colReorder.jqueryui.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\ColReorder-1.5.2\\css\\colReorder.jqueryui.css"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\ColReorder-1.5.2\\css\\colReorder.jqueryui.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\ColReorder-1.5.2\\css\\colReorder.jqueryui.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\ColReorder-1.5.2\\css\\colReorder.semanticui.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\ColReorder-1.5.2\\css\\colReorder.semanticui.css"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\ColReorder-1.5.2\\css\\colReorder.semanticui.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\ColReorder-1.5.2\\css\\colReorder.semanticui.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\ColReorder-1.5.2\\js\\colReorder.bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\ColReorder-1.5.2\\js\\colReorder.bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\ColReorder-1.5.2\\js\\colReorder.bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\ColReorder-1.5.2\\js\\colReorder.bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\ColReorder-1.5.2\\js\\colReorder.bootstrap4.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\ColReorder-1.5.2\\js\\colReorder.bootstrap4.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\ColReorder-1.5.2\\js\\colReorder.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\ColReorder-1.5.2\\js\\colReorder.bootstrap4.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\ColReorder-1.5.2\\js\\colReorder.dataTables.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\ColReorder-1.5.2\\js\\colReorder.dataTables.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\ColReorder-1.5.2\\js\\colReorder.foundation.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\ColReorder-1.5.2\\js\\colReorder.foundation.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\ColReorder-1.5.2\\js\\colReorder.foundation.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\ColReorder-1.5.2\\js\\colReorder.foundation.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\ColReorder-1.5.2\\js\\colReorder.jqueryui.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\ColReorder-1.5.2\\js\\colReorder.jqueryui.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\ColReorder-1.5.2\\js\\colReorder.jqueryui.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\ColReorder-1.5.2\\js\\colReorder.jqueryui.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\ColReorder-1.5.2\\js\\colReorder.semanicui.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\ColReorder-1.5.2\\js\\colReorder.semanicui.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\ColReorder-1.5.2\\js\\colReorder.semanticui.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\ColReorder-1.5.2\\js\\colReorder.semanticui.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\ColReorder-1.5.2\\js\\colReorder.semanticui.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\ColReorder-1.5.2\\js\\colReorder.semanticui.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\ColReorder-1.5.2\\js\\dataTables.colReorder.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\ColReorder-1.5.2\\js\\dataTables.colReorder.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\ColReorder-1.5.2\\js\\dataTables.colReorder.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\ColReorder-1.5.2\\js\\dataTables.colReorder.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\DataTables-1.10.21\\css\\dataTables.bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\DataTables-1.10.21\\css\\dataTables.bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\DataTables-1.10.21\\css\\dataTables.bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\DataTables-1.10.21\\css\\dataTables.bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\DataTables-1.10.21\\css\\dataTables.bootstrap4.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\DataTables-1.10.21\\css\\dataTables.bootstrap4.css"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\DataTables-1.10.21\\css\\dataTables.bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\DataTables-1.10.21\\css\\dataTables.bootstrap4.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\DataTables-1.10.21\\css\\dataTables.foundation.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\DataTables-1.10.21\\css\\dataTables.foundation.css"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\DataTables-1.10.21\\css\\dataTables.foundation.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\DataTables-1.10.21\\css\\dataTables.foundation.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\DataTables-1.10.21\\css\\dataTables.jqueryui.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\DataTables-1.10.21\\css\\dataTables.jqueryui.css"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\DataTables-1.10.21\\css\\dataTables.jqueryui.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\DataTables-1.10.21\\css\\dataTables.jqueryui.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\DataTables-1.10.21\\css\\dataTables.semanticui.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\DataTables-1.10.21\\css\\dataTables.semanticui.css"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\DataTables-1.10.21\\css\\dataTables.semanticui.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\DataTables-1.10.21\\css\\dataTables.semanticui.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\DataTables-1.10.21\\css\\jquery.dataTables.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\DataTables-1.10.21\\css\\jquery.dataTables.css"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\DataTables-1.10.21\\css\\jquery.dataTables.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\DataTables-1.10.21\\css\\jquery.dataTables.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\DataTables-1.10.21\\images\\sort_asc.png",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\DataTables-1.10.21\\images\\sort_asc.png"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\DataTables-1.10.21\\images\\sort_asc_disabled.png",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\DataTables-1.10.21\\images\\sort_asc_disabled.png"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\DataTables-1.10.21\\images\\sort_both.png",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\DataTables-1.10.21\\images\\sort_both.png"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\DataTables-1.10.21\\images\\sort_desc.png",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\DataTables-1.10.21\\images\\sort_desc.png"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\DataTables-1.10.21\\images\\sort_desc_disabled.png",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\DataTables-1.10.21\\images\\sort_desc_disabled.png"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\DataTables-1.10.21\\js\\dataTables.bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\DataTables-1.10.21\\js\\dataTables.bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\DataTables-1.10.21\\js\\dataTables.bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\DataTables-1.10.21\\js\\dataTables.bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\DataTables-1.10.21\\js\\dataTables.bootstrap4.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\DataTables-1.10.21\\js\\dataTables.bootstrap4.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\DataTables-1.10.21\\js\\dataTables.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\DataTables-1.10.21\\js\\dataTables.bootstrap4.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\DataTables-1.10.21\\js\\dataTables.foundation.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\DataTables-1.10.21\\js\\dataTables.foundation.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\DataTables-1.10.21\\js\\dataTables.foundation.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\DataTables-1.10.21\\js\\dataTables.foundation.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\DataTables-1.10.21\\js\\dataTables.jqueryui.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\DataTables-1.10.21\\js\\dataTables.jqueryui.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\DataTables-1.10.21\\js\\dataTables.jqueryui.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\DataTables-1.10.21\\js\\dataTables.jqueryui.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\DataTables-1.10.21\\js\\dataTables.semanticui.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\DataTables-1.10.21\\js\\dataTables.semanticui.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\DataTables-1.10.21\\js\\dataTables.semanticui.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\DataTables-1.10.21\\js\\dataTables.semanticui.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\DataTables-1.10.21\\js\\jquery.dataTables.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\DataTables-1.10.21\\js\\jquery.dataTables.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\DataTables-1.10.21\\js\\jquery.dataTables.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\DataTables-1.10.21\\js\\jquery.dataTables.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\FixedColumns-3.3.1\\css\\fixedColumns.bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\FixedColumns-3.3.1\\css\\fixedColumns.bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\FixedColumns-3.3.1\\css\\fixedColumns.bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\FixedColumns-3.3.1\\css\\fixedColumns.bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\FixedColumns-3.3.1\\css\\fixedColumns.bootstrap4.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\FixedColumns-3.3.1\\css\\fixedColumns.bootstrap4.css"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\FixedColumns-3.3.1\\css\\fixedColumns.bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\FixedColumns-3.3.1\\css\\fixedColumns.bootstrap4.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\FixedColumns-3.3.1\\css\\fixedColumns.dataTables.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\FixedColumns-3.3.1\\css\\fixedColumns.dataTables.css"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\FixedColumns-3.3.1\\css\\fixedColumns.dataTables.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\FixedColumns-3.3.1\\css\\fixedColumns.dataTables.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\FixedColumns-3.3.1\\css\\fixedColumns.foundation.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\FixedColumns-3.3.1\\css\\fixedColumns.foundation.css"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\FixedColumns-3.3.1\\css\\fixedColumns.foundation.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\FixedColumns-3.3.1\\css\\fixedColumns.foundation.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\FixedColumns-3.3.1\\css\\fixedColumns.jqueryui.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\FixedColumns-3.3.1\\css\\fixedColumns.jqueryui.css"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\FixedColumns-3.3.1\\css\\fixedColumns.jqueryui.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\FixedColumns-3.3.1\\css\\fixedColumns.jqueryui.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\FixedColumns-3.3.1\\css\\fixedColumns.semanticui.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\FixedColumns-3.3.1\\css\\fixedColumns.semanticui.css"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\FixedColumns-3.3.1\\css\\fixedColumns.semanticui.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\FixedColumns-3.3.1\\css\\fixedColumns.semanticui.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\FixedColumns-3.3.1\\js\\dataTables.fixedColumns.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\FixedColumns-3.3.1\\js\\dataTables.fixedColumns.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\FixedColumns-3.3.1\\js\\dataTables.fixedColumns.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\FixedColumns-3.3.1\\js\\dataTables.fixedColumns.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\FixedColumns-3.3.1\\js\\fixedColumns.bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\FixedColumns-3.3.1\\js\\fixedColumns.bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\FixedColumns-3.3.1\\js\\fixedColumns.bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\FixedColumns-3.3.1\\js\\fixedColumns.bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\FixedColumns-3.3.1\\js\\fixedColumns.bootstrap4.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\FixedColumns-3.3.1\\js\\fixedColumns.bootstrap4.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\FixedColumns-3.3.1\\js\\fixedColumns.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\FixedColumns-3.3.1\\js\\fixedColumns.bootstrap4.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\FixedColumns-3.3.1\\js\\fixedColumns.dataTables.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\FixedColumns-3.3.1\\js\\fixedColumns.dataTables.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\FixedColumns-3.3.1\\js\\fixedColumns.foundation.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\FixedColumns-3.3.1\\js\\fixedColumns.foundation.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\FixedColumns-3.3.1\\js\\fixedColumns.foundation.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\FixedColumns-3.3.1\\js\\fixedColumns.foundation.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\FixedColumns-3.3.1\\js\\fixedColumns.jqueryui.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\FixedColumns-3.3.1\\js\\fixedColumns.jqueryui.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\FixedColumns-3.3.1\\js\\fixedColumns.jqueryui.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\FixedColumns-3.3.1\\js\\fixedColumns.jqueryui.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\FixedColumns-3.3.1\\js\\fixedColumns.semanicui.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\FixedColumns-3.3.1\\js\\fixedColumns.semanicui.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\FixedColumns-3.3.1\\js\\fixedColumns.semanticui.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\FixedColumns-3.3.1\\js\\fixedColumns.semanticui.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\FixedColumns-3.3.1\\js\\fixedColumns.semanticui.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\FixedColumns-3.3.1\\js\\fixedColumns.semanticui.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\FixedHeader-3.1.7\\css\\fixedHeader.bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\FixedHeader-3.1.7\\css\\fixedHeader.bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\FixedHeader-3.1.7\\css\\fixedHeader.bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\FixedHeader-3.1.7\\css\\fixedHeader.bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\FixedHeader-3.1.7\\css\\fixedHeader.bootstrap4.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\FixedHeader-3.1.7\\css\\fixedHeader.bootstrap4.css"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\FixedHeader-3.1.7\\css\\fixedHeader.bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\FixedHeader-3.1.7\\css\\fixedHeader.bootstrap4.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\FixedHeader-3.1.7\\css\\fixedHeader.dataTables.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\FixedHeader-3.1.7\\css\\fixedHeader.dataTables.css"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\FixedHeader-3.1.7\\css\\fixedHeader.dataTables.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\FixedHeader-3.1.7\\css\\fixedHeader.dataTables.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\FixedHeader-3.1.7\\css\\fixedHeader.foundation.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\FixedHeader-3.1.7\\css\\fixedHeader.foundation.css"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\FixedHeader-3.1.7\\css\\fixedHeader.foundation.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\FixedHeader-3.1.7\\css\\fixedHeader.foundation.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\FixedHeader-3.1.7\\css\\fixedHeader.jqueryui.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\FixedHeader-3.1.7\\css\\fixedHeader.jqueryui.css"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\FixedHeader-3.1.7\\css\\fixedHeader.jqueryui.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\FixedHeader-3.1.7\\css\\fixedHeader.jqueryui.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\FixedHeader-3.1.7\\css\\fixedHeader.semanticui.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\FixedHeader-3.1.7\\css\\fixedHeader.semanticui.css"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\FixedHeader-3.1.7\\css\\fixedHeader.semanticui.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\FixedHeader-3.1.7\\css\\fixedHeader.semanticui.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\FixedHeader-3.1.7\\js\\dataTables.fixedHeader.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\FixedHeader-3.1.7\\js\\dataTables.fixedHeader.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\FixedHeader-3.1.7\\js\\dataTables.fixedHeader.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\FixedHeader-3.1.7\\js\\dataTables.fixedHeader.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\FixedHeader-3.1.7\\js\\fixedHeader.bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\FixedHeader-3.1.7\\js\\fixedHeader.bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\FixedHeader-3.1.7\\js\\fixedHeader.bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\FixedHeader-3.1.7\\js\\fixedHeader.bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\FixedHeader-3.1.7\\js\\fixedHeader.bootstrap4.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\FixedHeader-3.1.7\\js\\fixedHeader.bootstrap4.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\FixedHeader-3.1.7\\js\\fixedHeader.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\FixedHeader-3.1.7\\js\\fixedHeader.bootstrap4.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\FixedHeader-3.1.7\\js\\fixedHeader.dataTables.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\FixedHeader-3.1.7\\js\\fixedHeader.dataTables.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\FixedHeader-3.1.7\\js\\fixedHeader.foundation.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\FixedHeader-3.1.7\\js\\fixedHeader.foundation.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\FixedHeader-3.1.7\\js\\fixedHeader.foundation.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\FixedHeader-3.1.7\\js\\fixedHeader.foundation.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\FixedHeader-3.1.7\\js\\fixedHeader.jqueryui.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\FixedHeader-3.1.7\\js\\fixedHeader.jqueryui.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\FixedHeader-3.1.7\\js\\fixedHeader.jqueryui.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\FixedHeader-3.1.7\\js\\fixedHeader.jqueryui.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\FixedHeader-3.1.7\\js\\fixedHeader.semanicui.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\FixedHeader-3.1.7\\js\\fixedHeader.semanicui.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\FixedHeader-3.1.7\\js\\fixedHeader.semanticui.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\FixedHeader-3.1.7\\js\\fixedHeader.semanticui.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\FixedHeader-3.1.7\\js\\fixedHeader.semanticui.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\FixedHeader-3.1.7\\js\\fixedHeader.semanticui.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\JSZip-2.5.0\\jszip.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\JSZip-2.5.0\\jszip.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\JSZip-2.5.0\\jszip.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\JSZip-2.5.0\\jszip.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\KeyTable-2.5.2\\css\\keyTable.bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\KeyTable-2.5.2\\css\\keyTable.bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\KeyTable-2.5.2\\css\\keyTable.bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\KeyTable-2.5.2\\css\\keyTable.bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\KeyTable-2.5.2\\css\\keyTable.bootstrap4.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\KeyTable-2.5.2\\css\\keyTable.bootstrap4.css"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\KeyTable-2.5.2\\css\\keyTable.bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\KeyTable-2.5.2\\css\\keyTable.bootstrap4.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\KeyTable-2.5.2\\css\\keyTable.dataTables.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\KeyTable-2.5.2\\css\\keyTable.dataTables.css"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\KeyTable-2.5.2\\css\\keyTable.dataTables.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\KeyTable-2.5.2\\css\\keyTable.dataTables.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\KeyTable-2.5.2\\css\\keyTable.foundation.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\KeyTable-2.5.2\\css\\keyTable.foundation.css"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\KeyTable-2.5.2\\css\\keyTable.foundation.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\KeyTable-2.5.2\\css\\keyTable.foundation.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\KeyTable-2.5.2\\css\\keyTable.jqueryui.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\KeyTable-2.5.2\\css\\keyTable.jqueryui.css"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\KeyTable-2.5.2\\css\\keyTable.jqueryui.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\KeyTable-2.5.2\\css\\keyTable.jqueryui.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\KeyTable-2.5.2\\css\\keyTable.semanticui.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\KeyTable-2.5.2\\css\\keyTable.semanticui.css"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\KeyTable-2.5.2\\css\\keyTable.semanticui.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\KeyTable-2.5.2\\css\\keyTable.semanticui.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\KeyTable-2.5.2\\js\\dataTables.keyTable.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\KeyTable-2.5.2\\js\\dataTables.keyTable.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\KeyTable-2.5.2\\js\\dataTables.keyTable.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\KeyTable-2.5.2\\js\\dataTables.keyTable.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\KeyTable-2.5.2\\js\\keyTable.bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\KeyTable-2.5.2\\js\\keyTable.bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\KeyTable-2.5.2\\js\\keyTable.bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\KeyTable-2.5.2\\js\\keyTable.bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\KeyTable-2.5.2\\js\\keyTable.bootstrap4.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\KeyTable-2.5.2\\js\\keyTable.bootstrap4.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\KeyTable-2.5.2\\js\\keyTable.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\KeyTable-2.5.2\\js\\keyTable.bootstrap4.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\KeyTable-2.5.2\\js\\keyTable.dataTables.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\KeyTable-2.5.2\\js\\keyTable.dataTables.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\KeyTable-2.5.2\\js\\keyTable.foundation.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\KeyTable-2.5.2\\js\\keyTable.foundation.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\KeyTable-2.5.2\\js\\keyTable.foundation.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\KeyTable-2.5.2\\js\\keyTable.foundation.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\KeyTable-2.5.2\\js\\keyTable.jqueryui.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\KeyTable-2.5.2\\js\\keyTable.jqueryui.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\KeyTable-2.5.2\\js\\keyTable.jqueryui.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\KeyTable-2.5.2\\js\\keyTable.jqueryui.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\KeyTable-2.5.2\\js\\keyTable.semanicui.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\KeyTable-2.5.2\\js\\keyTable.semanicui.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\KeyTable-2.5.2\\js\\keyTable.semanticui.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\KeyTable-2.5.2\\js\\keyTable.semanticui.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\KeyTable-2.5.2\\js\\keyTable.semanticui.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\KeyTable-2.5.2\\js\\keyTable.semanticui.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\Responsive-2.2.5\\css\\responsive.bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Responsive-2.2.5\\css\\responsive.bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\Responsive-2.2.5\\css\\responsive.bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Responsive-2.2.5\\css\\responsive.bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\Responsive-2.2.5\\css\\responsive.bootstrap4.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Responsive-2.2.5\\css\\responsive.bootstrap4.css"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\Responsive-2.2.5\\css\\responsive.bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Responsive-2.2.5\\css\\responsive.bootstrap4.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\Responsive-2.2.5\\css\\responsive.dataTables.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Responsive-2.2.5\\css\\responsive.dataTables.css"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\Responsive-2.2.5\\css\\responsive.dataTables.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Responsive-2.2.5\\css\\responsive.dataTables.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\Responsive-2.2.5\\css\\responsive.foundation.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Responsive-2.2.5\\css\\responsive.foundation.css"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\Responsive-2.2.5\\css\\responsive.foundation.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Responsive-2.2.5\\css\\responsive.foundation.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\Responsive-2.2.5\\css\\responsive.jqueryui.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Responsive-2.2.5\\css\\responsive.jqueryui.css"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\Responsive-2.2.5\\css\\responsive.jqueryui.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Responsive-2.2.5\\css\\responsive.jqueryui.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\Responsive-2.2.5\\css\\responsive.semanticui.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Responsive-2.2.5\\css\\responsive.semanticui.css"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\Responsive-2.2.5\\css\\responsive.semanticui.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Responsive-2.2.5\\css\\responsive.semanticui.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\Responsive-2.2.5\\js\\dataTables.responsive.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Responsive-2.2.5\\js\\dataTables.responsive.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\Responsive-2.2.5\\js\\dataTables.responsive.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Responsive-2.2.5\\js\\dataTables.responsive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\Responsive-2.2.5\\js\\responsive.bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Responsive-2.2.5\\js\\responsive.bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\Responsive-2.2.5\\js\\responsive.bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Responsive-2.2.5\\js\\responsive.bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\Responsive-2.2.5\\js\\responsive.bootstrap4.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Responsive-2.2.5\\js\\responsive.bootstrap4.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\Responsive-2.2.5\\js\\responsive.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Responsive-2.2.5\\js\\responsive.bootstrap4.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\Responsive-2.2.5\\js\\responsive.foundation.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Responsive-2.2.5\\js\\responsive.foundation.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\Responsive-2.2.5\\js\\responsive.foundation.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Responsive-2.2.5\\js\\responsive.foundation.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\Responsive-2.2.5\\js\\responsive.jqueryui.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Responsive-2.2.5\\js\\responsive.jqueryui.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\Responsive-2.2.5\\js\\responsive.jqueryui.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Responsive-2.2.5\\js\\responsive.jqueryui.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\Responsive-2.2.5\\js\\responsive.semanticui.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Responsive-2.2.5\\js\\responsive.semanticui.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\Responsive-2.2.5\\js\\responsive.semanticui.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Responsive-2.2.5\\js\\responsive.semanticui.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\RowGroup-1.1.2\\css\\rowGroup.bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\RowGroup-1.1.2\\css\\rowGroup.bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\RowGroup-1.1.2\\css\\rowGroup.bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\RowGroup-1.1.2\\css\\rowGroup.bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\RowGroup-1.1.2\\css\\rowGroup.bootstrap4.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\RowGroup-1.1.2\\css\\rowGroup.bootstrap4.css"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\RowGroup-1.1.2\\css\\rowGroup.bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\RowGroup-1.1.2\\css\\rowGroup.bootstrap4.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\RowGroup-1.1.2\\css\\rowGroup.dataTables.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\RowGroup-1.1.2\\css\\rowGroup.dataTables.css"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\RowGroup-1.1.2\\css\\rowGroup.dataTables.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\RowGroup-1.1.2\\css\\rowGroup.dataTables.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\RowGroup-1.1.2\\css\\rowGroup.foundation.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\RowGroup-1.1.2\\css\\rowGroup.foundation.css"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\RowGroup-1.1.2\\css\\rowGroup.foundation.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\RowGroup-1.1.2\\css\\rowGroup.foundation.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\RowGroup-1.1.2\\css\\rowGroup.jqueryui.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\RowGroup-1.1.2\\css\\rowGroup.jqueryui.css"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\RowGroup-1.1.2\\css\\rowGroup.jqueryui.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\RowGroup-1.1.2\\css\\rowGroup.jqueryui.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\RowGroup-1.1.2\\css\\rowGroup.semanticui.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\RowGroup-1.1.2\\css\\rowGroup.semanticui.css"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\RowGroup-1.1.2\\css\\rowGroup.semanticui.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\RowGroup-1.1.2\\css\\rowGroup.semanticui.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\RowGroup-1.1.2\\js\\dataTables.rowGroup.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\RowGroup-1.1.2\\js\\dataTables.rowGroup.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\RowGroup-1.1.2\\js\\dataTables.rowGroup.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\RowGroup-1.1.2\\js\\dataTables.rowGroup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\RowGroup-1.1.2\\js\\rowGroup.bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\RowGroup-1.1.2\\js\\rowGroup.bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\RowGroup-1.1.2\\js\\rowGroup.bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\RowGroup-1.1.2\\js\\rowGroup.bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\RowGroup-1.1.2\\js\\rowGroup.bootstrap4.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\RowGroup-1.1.2\\js\\rowGroup.bootstrap4.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\RowGroup-1.1.2\\js\\rowGroup.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\RowGroup-1.1.2\\js\\rowGroup.bootstrap4.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\RowGroup-1.1.2\\js\\rowGroup.dataTables.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\RowGroup-1.1.2\\js\\rowGroup.dataTables.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\RowGroup-1.1.2\\js\\rowGroup.foundation.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\RowGroup-1.1.2\\js\\rowGroup.foundation.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\RowGroup-1.1.2\\js\\rowGroup.foundation.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\RowGroup-1.1.2\\js\\rowGroup.foundation.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\RowGroup-1.1.2\\js\\rowGroup.jqueryui.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\RowGroup-1.1.2\\js\\rowGroup.jqueryui.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\RowGroup-1.1.2\\js\\rowGroup.jqueryui.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\RowGroup-1.1.2\\js\\rowGroup.jqueryui.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\RowGroup-1.1.2\\js\\rowGroup.semanicui.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\RowGroup-1.1.2\\js\\rowGroup.semanicui.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\RowGroup-1.1.2\\js\\rowGroup.semanticui.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\RowGroup-1.1.2\\js\\rowGroup.semanticui.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\RowGroup-1.1.2\\js\\rowGroup.semanticui.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\RowGroup-1.1.2\\js\\rowGroup.semanticui.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\RowReorder-1.2.7\\css\\rowReorder.bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\RowReorder-1.2.7\\css\\rowReorder.bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\RowReorder-1.2.7\\css\\rowReorder.bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\RowReorder-1.2.7\\css\\rowReorder.bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\RowReorder-1.2.7\\css\\rowReorder.bootstrap4.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\RowReorder-1.2.7\\css\\rowReorder.bootstrap4.css"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\RowReorder-1.2.7\\css\\rowReorder.bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\RowReorder-1.2.7\\css\\rowReorder.bootstrap4.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\RowReorder-1.2.7\\css\\rowReorder.dataTables.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\RowReorder-1.2.7\\css\\rowReorder.dataTables.css"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\RowReorder-1.2.7\\css\\rowReorder.dataTables.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\RowReorder-1.2.7\\css\\rowReorder.dataTables.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\RowReorder-1.2.7\\css\\rowReorder.foundation.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\RowReorder-1.2.7\\css\\rowReorder.foundation.css"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\RowReorder-1.2.7\\css\\rowReorder.foundation.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\RowReorder-1.2.7\\css\\rowReorder.foundation.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\RowReorder-1.2.7\\css\\rowReorder.jqueryui.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\RowReorder-1.2.7\\css\\rowReorder.jqueryui.css"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\RowReorder-1.2.7\\css\\rowReorder.jqueryui.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\RowReorder-1.2.7\\css\\rowReorder.jqueryui.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\RowReorder-1.2.7\\css\\rowReorder.semanticui.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\RowReorder-1.2.7\\css\\rowReorder.semanticui.css"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\RowReorder-1.2.7\\css\\rowReorder.semanticui.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\RowReorder-1.2.7\\css\\rowReorder.semanticui.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\RowReorder-1.2.7\\js\\dataTables.rowReorder.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\RowReorder-1.2.7\\js\\dataTables.rowReorder.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\RowReorder-1.2.7\\js\\dataTables.rowReorder.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\RowReorder-1.2.7\\js\\dataTables.rowReorder.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\RowReorder-1.2.7\\js\\rowReorder.bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\RowReorder-1.2.7\\js\\rowReorder.bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\RowReorder-1.2.7\\js\\rowReorder.bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\RowReorder-1.2.7\\js\\rowReorder.bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\RowReorder-1.2.7\\js\\rowReorder.bootstrap4.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\RowReorder-1.2.7\\js\\rowReorder.bootstrap4.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\RowReorder-1.2.7\\js\\rowReorder.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\RowReorder-1.2.7\\js\\rowReorder.bootstrap4.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\RowReorder-1.2.7\\js\\rowReorder.dataTables.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\RowReorder-1.2.7\\js\\rowReorder.dataTables.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\RowReorder-1.2.7\\js\\rowReorder.foundation.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\RowReorder-1.2.7\\js\\rowReorder.foundation.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\RowReorder-1.2.7\\js\\rowReorder.foundation.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\RowReorder-1.2.7\\js\\rowReorder.foundation.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\RowReorder-1.2.7\\js\\rowReorder.jqueryui.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\RowReorder-1.2.7\\js\\rowReorder.jqueryui.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\RowReorder-1.2.7\\js\\rowReorder.jqueryui.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\RowReorder-1.2.7\\js\\rowReorder.jqueryui.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\RowReorder-1.2.7\\js\\rowReorder.semanticui.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\RowReorder-1.2.7\\js\\rowReorder.semanticui.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\RowReorder-1.2.7\\js\\rowReorder.semanticui.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\RowReorder-1.2.7\\js\\rowReorder.semanticui.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\Scroller-2.0.2\\css\\scroller.bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Scroller-2.0.2\\css\\scroller.bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\Scroller-2.0.2\\css\\scroller.bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Scroller-2.0.2\\css\\scroller.bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\Scroller-2.0.2\\css\\scroller.bootstrap4.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Scroller-2.0.2\\css\\scroller.bootstrap4.css"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\Scroller-2.0.2\\css\\scroller.bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Scroller-2.0.2\\css\\scroller.bootstrap4.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\Scroller-2.0.2\\css\\scroller.dataTables.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Scroller-2.0.2\\css\\scroller.dataTables.css"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\Scroller-2.0.2\\css\\scroller.dataTables.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Scroller-2.0.2\\css\\scroller.dataTables.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\Scroller-2.0.2\\css\\scroller.foundation.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Scroller-2.0.2\\css\\scroller.foundation.css"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\Scroller-2.0.2\\css\\scroller.foundation.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Scroller-2.0.2\\css\\scroller.foundation.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\Scroller-2.0.2\\css\\scroller.jqueryui.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Scroller-2.0.2\\css\\scroller.jqueryui.css"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\Scroller-2.0.2\\css\\scroller.jqueryui.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Scroller-2.0.2\\css\\scroller.jqueryui.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\Scroller-2.0.2\\css\\scroller.semanticui.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Scroller-2.0.2\\css\\scroller.semanticui.css"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\Scroller-2.0.2\\css\\scroller.semanticui.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Scroller-2.0.2\\css\\scroller.semanticui.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\Scroller-2.0.2\\js\\dataTables.scroller.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Scroller-2.0.2\\js\\dataTables.scroller.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\Scroller-2.0.2\\js\\dataTables.scroller.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Scroller-2.0.2\\js\\dataTables.scroller.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\Scroller-2.0.2\\js\\scroller.bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Scroller-2.0.2\\js\\scroller.bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\Scroller-2.0.2\\js\\scroller.bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Scroller-2.0.2\\js\\scroller.bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\Scroller-2.0.2\\js\\scroller.bootstrap4.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Scroller-2.0.2\\js\\scroller.bootstrap4.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\Scroller-2.0.2\\js\\scroller.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Scroller-2.0.2\\js\\scroller.bootstrap4.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\Scroller-2.0.2\\js\\scroller.dataTables.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Scroller-2.0.2\\js\\scroller.dataTables.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\Scroller-2.0.2\\js\\scroller.foundation.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Scroller-2.0.2\\js\\scroller.foundation.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\Scroller-2.0.2\\js\\scroller.foundation.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Scroller-2.0.2\\js\\scroller.foundation.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\Scroller-2.0.2\\js\\scroller.jqueryui.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Scroller-2.0.2\\js\\scroller.jqueryui.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\Scroller-2.0.2\\js\\scroller.jqueryui.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Scroller-2.0.2\\js\\scroller.jqueryui.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\Scroller-2.0.2\\js\\scroller.semanicui.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Scroller-2.0.2\\js\\scroller.semanicui.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\Scroller-2.0.2\\js\\scroller.semanticui.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Scroller-2.0.2\\js\\scroller.semanticui.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\Scroller-2.0.2\\js\\scroller.semanticui.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Scroller-2.0.2\\js\\scroller.semanticui.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\SearchPanes-1.1.1\\css\\searchPanes.bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\SearchPanes-1.1.1\\css\\searchPanes.bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\SearchPanes-1.1.1\\css\\searchPanes.bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\SearchPanes-1.1.1\\css\\searchPanes.bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\SearchPanes-1.1.1\\css\\searchPanes.bootstrap4.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\SearchPanes-1.1.1\\css\\searchPanes.bootstrap4.css"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\SearchPanes-1.1.1\\css\\searchPanes.bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\SearchPanes-1.1.1\\css\\searchPanes.bootstrap4.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\SearchPanes-1.1.1\\css\\searchPanes.dataTables.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\SearchPanes-1.1.1\\css\\searchPanes.dataTables.css"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\SearchPanes-1.1.1\\css\\searchPanes.dataTables.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\SearchPanes-1.1.1\\css\\searchPanes.dataTables.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\SearchPanes-1.1.1\\css\\searchPanes.foundation.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\SearchPanes-1.1.1\\css\\searchPanes.foundation.css"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\SearchPanes-1.1.1\\css\\searchPanes.foundation.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\SearchPanes-1.1.1\\css\\searchPanes.foundation.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\SearchPanes-1.1.1\\css\\searchPanes.jqueryui.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\SearchPanes-1.1.1\\css\\searchPanes.jqueryui.css"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\SearchPanes-1.1.1\\css\\searchPanes.jqueryui.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\SearchPanes-1.1.1\\css\\searchPanes.jqueryui.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\SearchPanes-1.1.1\\css\\searchPanes.semanticui.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\SearchPanes-1.1.1\\css\\searchPanes.semanticui.css"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\SearchPanes-1.1.1\\css\\searchPanes.semanticui.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\SearchPanes-1.1.1\\css\\searchPanes.semanticui.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\SearchPanes-1.1.1\\js\\dataTables.searchPanes.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\SearchPanes-1.1.1\\js\\dataTables.searchPanes.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\SearchPanes-1.1.1\\js\\dataTables.searchPanes.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\SearchPanes-1.1.1\\js\\dataTables.searchPanes.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\SearchPanes-1.1.1\\js\\searchPanes.bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\SearchPanes-1.1.1\\js\\searchPanes.bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\SearchPanes-1.1.1\\js\\searchPanes.bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\SearchPanes-1.1.1\\js\\searchPanes.bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\SearchPanes-1.1.1\\js\\searchPanes.bootstrap4.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\SearchPanes-1.1.1\\js\\searchPanes.bootstrap4.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\SearchPanes-1.1.1\\js\\searchPanes.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\SearchPanes-1.1.1\\js\\searchPanes.bootstrap4.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\SearchPanes-1.1.1\\js\\searchPanes.dataTables.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\SearchPanes-1.1.1\\js\\searchPanes.dataTables.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\SearchPanes-1.1.1\\js\\searchPanes.dataTables.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\SearchPanes-1.1.1\\js\\searchPanes.dataTables.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\SearchPanes-1.1.1\\js\\searchPanes.foundation.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\SearchPanes-1.1.1\\js\\searchPanes.foundation.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\SearchPanes-1.1.1\\js\\searchPanes.foundation.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\SearchPanes-1.1.1\\js\\searchPanes.foundation.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\SearchPanes-1.1.1\\js\\searchPanes.jqueryui.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\SearchPanes-1.1.1\\js\\searchPanes.jqueryui.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\SearchPanes-1.1.1\\js\\searchPanes.jqueryui.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\SearchPanes-1.1.1\\js\\searchPanes.jqueryui.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\SearchPanes-1.1.1\\js\\searchPanes.semanicui.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\SearchPanes-1.1.1\\js\\searchPanes.semanicui.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\SearchPanes-1.1.1\\js\\searchPanes.semanticui.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\SearchPanes-1.1.1\\js\\searchPanes.semanticui.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\SearchPanes-1.1.1\\js\\searchPanes.semanticui.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\SearchPanes-1.1.1\\js\\searchPanes.semanticui.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\Select-1.3.1\\css\\select.bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Select-1.3.1\\css\\select.bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\Select-1.3.1\\css\\select.bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Select-1.3.1\\css\\select.bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\Select-1.3.1\\css\\select.bootstrap4.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Select-1.3.1\\css\\select.bootstrap4.css"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\Select-1.3.1\\css\\select.bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Select-1.3.1\\css\\select.bootstrap4.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\Select-1.3.1\\css\\select.dataTables.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Select-1.3.1\\css\\select.dataTables.css"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\Select-1.3.1\\css\\select.dataTables.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Select-1.3.1\\css\\select.dataTables.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\Select-1.3.1\\css\\select.foundation.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Select-1.3.1\\css\\select.foundation.css"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\Select-1.3.1\\css\\select.foundation.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Select-1.3.1\\css\\select.foundation.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\Select-1.3.1\\css\\select.jqueryui.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Select-1.3.1\\css\\select.jqueryui.css"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\Select-1.3.1\\css\\select.jqueryui.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Select-1.3.1\\css\\select.jqueryui.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\Select-1.3.1\\css\\select.semanticui.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Select-1.3.1\\css\\select.semanticui.css"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\Select-1.3.1\\css\\select.semanticui.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Select-1.3.1\\css\\select.semanticui.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\Select-1.3.1\\js\\dataTables.select.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Select-1.3.1\\js\\dataTables.select.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\Select-1.3.1\\js\\dataTables.select.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Select-1.3.1\\js\\dataTables.select.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\Select-1.3.1\\js\\select.bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Select-1.3.1\\js\\select.bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\Select-1.3.1\\js\\select.bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Select-1.3.1\\js\\select.bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\Select-1.3.1\\js\\select.bootstrap4.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Select-1.3.1\\js\\select.bootstrap4.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\Select-1.3.1\\js\\select.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Select-1.3.1\\js\\select.bootstrap4.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\Select-1.3.1\\js\\select.dataTables.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Select-1.3.1\\js\\select.dataTables.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\Select-1.3.1\\js\\select.foundation.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Select-1.3.1\\js\\select.foundation.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\Select-1.3.1\\js\\select.foundation.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Select-1.3.1\\js\\select.foundation.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\Select-1.3.1\\js\\select.jqueryui.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Select-1.3.1\\js\\select.jqueryui.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\Select-1.3.1\\js\\select.jqueryui.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Select-1.3.1\\js\\select.jqueryui.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\Select-1.3.1\\js\\select.semanticui.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Select-1.3.1\\js\\select.semanticui.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\Select-1.3.1\\js\\select.semanticui.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Select-1.3.1\\js\\select.semanticui.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\Spanish.json",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Spanish.json"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\datatables.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\datatables.css"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\datatables.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\datatables.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\datatables.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\datatables.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\datatables.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\datatables.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\pdfmake-0.1.36\\pdfmake.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\pdfmake-0.1.36\\pdfmake.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\pdfmake-0.1.36\\pdfmake.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\pdfmake-0.1.36\\pdfmake.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\DataTables\\pdfmake-0.1.36\\vfs_fonts.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\pdfmake-0.1.36\\vfs_fonts.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production\\Webpuc\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.Webpuc.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.build.Webpuc.props",
+      "PackagePath": "build\\Webpuc.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Webpuc.props",
+      "PackagePath": "buildMultiTargeting\\Webpuc.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.buildTransitive.Webpuc.props",
+      "PackagePath": "buildTransitive\\Webpuc.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

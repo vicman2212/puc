@@ -1,0 +1,127 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Webpuc
+build_property.RootNamespace = Webpuc
+build_property.ProjectDir = C:\Users\Empleado\Documents\Visual Studio 2022\0-ProyProduccion\puntounicocontactov3_Production\Webpuc\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = true
+build_property.MSBuildProjectDirectory = C:\Users\Empleado\Documents\Visual Studio 2022\0-ProyProduccion\puntounicocontactov3_Production\Webpuc
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Empleado/Documents/Visual Studio 2022/0-ProyProduccion/puntounicocontactov3_Production/Webpuc/Views/AdminEmpleado/InsertEmpleado.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5FbXBsZWFkb1xJbnNlcnRFbXBsZWFkby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Empleado/Documents/Visual Studio 2022/0-ProyProduccion/puntounicocontactov3_Production/Webpuc/Views/AdminEmpleado/NotificError.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5FbXBsZWFkb1xOb3RpZmljRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Empleado/Documents/Visual Studio 2022/0-ProyProduccion/puntounicocontactov3_Production/Webpuc/Views/AdminEmpleado/NotificSucceded.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5FbXBsZWFkb1xOb3RpZmljU3VjY2VkZWQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Empleado/Documents/Visual Studio 2022/0-ProyProduccion/puntounicocontactov3_Production/Webpuc/Views/AdminEmpleado/UpdateEmp.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5FbXBsZWFkb1xVcGRhdGVFbXAuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Empleado/Documents/Visual Studio 2022/0-ProyProduccion/puntounicocontactov3_Production/Webpuc/Views/Directorio/DirectorioFIRCO.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlyZWN0b3Jpb1xEaXJlY3RvcmlvRklSQ08uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Empleado/Documents/Visual Studio 2022/0-ProyProduccion/puntounicocontactov3_Production/Webpuc/Views/Directorio/_navDirectorio.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlyZWN0b3Jpb1xfbmF2RGlyZWN0b3Jpby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Empleado/Documents/Visual Studio 2022/0-ProyProduccion/puntounicocontactov3_Production/Webpuc/Views/ERISC/HomeERISC.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRVJJU0NcSG9tZUVSSVNDLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Empleado/Documents/Visual Studio 2022/0-ProyProduccion/puntounicocontactov3_Production/Webpuc/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Empleado/Documents/Visual Studio 2022/0-ProyProduccion/puntounicocontactov3_Production/Webpuc/Views/Home/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Empleado/Documents/Visual Studio 2022/0-ProyProduccion/puntounicocontactov3_Production/Webpuc/Views/Home/MainApp.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxNYWluQXBwLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Empleado/Documents/Visual Studio 2022/0-ProyProduccion/puntounicocontactov3_Production/Webpuc/Views/Home/NotificErrorRP.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxOb3RpZmljRXJyb3JSUC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Empleado/Documents/Visual Studio 2022/0-ProyProduccion/puntounicocontactov3_Production/Webpuc/Views/Home/NotificSuccededRP.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxOb3RpZmljU3VjY2VkZWRSUC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Empleado/Documents/Visual Studio 2022/0-ProyProduccion/puntounicocontactov3_Production/Webpuc/Views/Home/OlvidoPass.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxPbHZpZG9QYXNzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Empleado/Documents/Visual Studio 2022/0-ProyProduccion/puntounicocontactov3_Production/Webpuc/Views/Shared/Components/DirectorioPG/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcRGlyZWN0b3Jpb1BHXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Empleado/Documents/Visual Studio 2022/0-ProyProduccion/puntounicocontactov3_Production/Webpuc/Views/Shared/Components/DirectorioVOC/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcRGlyZWN0b3Jpb1ZPQ1xEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Empleado/Documents/Visual Studio 2022/0-ProyProduccion/puntounicocontactov3_Production/Webpuc/Views/Shared/Components/FormatsHeader/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcRm9ybWF0c0hlYWRlclxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Empleado/Documents/Visual Studio 2022/0-ProyProduccion/puntounicocontactov3_Production/Webpuc/Views/Shared/Components/FormInsertEmp/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcRm9ybUluc2VydEVtcFxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Empleado/Documents/Visual Studio 2022/0-ProyProduccion/puntounicocontactov3_Production/Webpuc/Views/Shared/Components/ListaPuestos/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcTGlzdGFQdWVzdG9zXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Empleado/Documents/Visual Studio 2022/0-ProyProduccion/puntounicocontactov3_Production/Webpuc/Views/Shared/Components/ModuleAccess/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcTW9kdWxlQWNjZXNzXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Empleado/Documents/Visual Studio 2022/0-ProyProduccion/puntounicocontactov3_Production/Webpuc/Views/Shared/Components/UpdateEmp/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcVXBkYXRlRW1wXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Empleado/Documents/Visual Studio 2022/0-ProyProduccion/puntounicocontactov3_Production/Webpuc/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Empleado/Documents/Visual Studio 2022/0-ProyProduccion/puntounicocontactov3_Production/Webpuc/Views/Shared/_FichaUsuario.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9GaWNoYVVzdWFyaW8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Empleado/Documents/Visual Studio 2022/0-ProyProduccion/puntounicocontactov3_Production/Webpuc/Views/Shared/_MenuPrincipal.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9NZW51UHJpbmNpcGFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Empleado/Documents/Visual Studio 2022/0-ProyProduccion/puntounicocontactov3_Production/Webpuc/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Empleado/Documents/Visual Studio 2022/0-ProyProduccion/puntounicocontactov3_Production/Webpuc/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Empleado/Documents/Visual Studio 2022/0-ProyProduccion/puntounicocontactov3_Production/Webpuc/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Empleado/Documents/Visual Studio 2022/0-ProyProduccion/puntounicocontactov3_Production/Webpuc/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-m8flucxw29

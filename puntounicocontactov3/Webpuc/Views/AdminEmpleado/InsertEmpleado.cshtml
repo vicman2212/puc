@@ -1,0 +1,19 @@
+﻿@*
+    Formulario para agregar a un empleado
+*@
+@{
+    ViewData["title"] = "AddEmp";
+}
+<partial name="_MenuPrincipal" />
+<partial name="_FichaUsuario" />
+<div id="msn-alert-adminEmp"></div>
+@* Aqui el encabezado *@
+<div style="background: #b38e5d;height: 0.5rem;"></div>
+@await Component.InvokeAsync("FormatsHeader",new HeaderViewModel{Institucion="Fideicomiso de Riesgo Compartido",
+                                                                    Direccion="DEAF",
+                                                                    Gerencia="Subgerencia Personal",
+                                                                    TipoF="I-FPUC",
+                                                                    VersionF="1.0"})
+
+<div style="background: white;height: 0.5rem;"></div>
+@await Component.InvokeAsync("FormInsertEmp")

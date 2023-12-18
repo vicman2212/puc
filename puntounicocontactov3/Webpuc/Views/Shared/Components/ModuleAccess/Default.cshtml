@@ -1,0 +1,29 @@
+﻿@model List<ModulosPerfilModel>
+@inject Microsoft.AspNetCore.Http.IHttpContextAccessor HttpContextAccessor;
+<div class="alert alert-success"><strong>Selecciona la aplicación</strong></div>
+<div class="container-fluid">
+    @foreach (var item in Model.AsQueryable())
+    {
+        <div class="col-sm-3 m-2 d-inline" id="card-incidente" style="font-size:.9rem">
+            <div class="card  shadow rounded card-custom">
+                <div class="card-body">
+                    <div class="card-img-top m-2 p-2">
+                        <img class="icon-lg" src="@item.Icon" alt="icono"  />
+                    </div>
+                    <div class="card-title m-2 p-2">
+                        <h5>@item.NombreModulo</h5>
+                    </div>
+                    <div class="card-text">
+                        <p>@item.Desc</p>
+                    </div>
+                    <div>                      
+                        <a class="solicitud a-custom" asp-controller="@item.Controller" asp-action="@item.Action">
+                            Seleccionar
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    }
+</div>
+

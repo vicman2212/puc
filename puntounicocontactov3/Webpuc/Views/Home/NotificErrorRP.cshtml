@@ -1,0 +1,26 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    ViewData["title"] = "Exito Reseteo";
+}
+
+<div style="font-family: 'Montserrat';margin: auto; width: 60%; margin-top: 5rem;">
+    <div style="background: #98a088;height: 0.5rem;"></div>
+    <div style="background-color: #F6F6F6;font-family: 'Montserrat';text-align: justify; padding: 2rem; height: 30rem;">
+        <div style="margin: auto;margin-top: 2rem; width: 40%;text-align: center;">
+            <img src="http://apps.firco.gob.mx/icons/puc/no-usr.png" width="55%" />
+        </div>
+        <div style="text-align: center;">
+            <h1 style="color: indianred;">¡ERROR! EL USUARIO NO EXISTE</h1>
+
+        </div>
+        <div class="alert alert-info" role="alert">
+            RECURDA QUE EL USUARIO ES <strong>nombre.apellido</strong>. Intenta de nuevo o comunicate envia un correo a la cuenta de <a>soporte.tic@firco.gob.mx</a>
+        </div>
+        <div>
+            <a class="btn btn-warning" style="width: 80%" asp-action="OlvidoPass" asp-controller="Home">BUSCA TU USUARIO DE NUEVO</a>
+        </div>
+    </div>
+    <div style="background: #98a088;width: 100%;height: 0.5rem;"></div>
+</div>

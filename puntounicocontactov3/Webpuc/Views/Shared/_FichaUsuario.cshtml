@@ -1,0 +1,42 @@
+﻿@*
+   Ficha del usuario Logeado
+*@
+@inject Microsoft.AspNetCore.Http.IHttpContextAccessor HttpContextAccessor;
+@using System.Security.Claims;
+@{
+    var FullName = HttpContextAccessor.HttpContext.User.Identity.Name;
+    var Email = HttpContextAccessor.HttpContext.User.FindFirst(ClaimTypes.Email).Value;
+    var Puesto = HttpContextAccessor.HttpContext.User.FindFirst("Puesto").Value;
+    var EntidadFederativa = HttpContextAccessor.HttpContext.User.FindFirst(ClaimTypes.Locality).Value;
+    var Ubicacion = HttpContextAccessor.HttpContext.User.FindFirst(ClaimTypes.StreetAddress).Value;
+    var Conmutador = HttpContextAccessor.HttpContext.User.FindFirst(ClaimTypes.OtherPhone).Value;
+    var Extension = HttpContextAccessor.HttpContext.User.FindFirst("Ext").Value;
+    var NombreDepartamentoSup = HttpContextAccessor.HttpContext.User.FindFirst("Direc").Value;
+    var NombreDepartamento = HttpContextAccessor.HttpContext.User.FindFirst("Area").Value;
+}
+@if (HttpContextAccessor.HttpContext.User.Identity.IsAuthenticated)
+{
+    <div class="container">
+        <div class="row shadow-sm mb-2 p-3 rounded">
+            <div class="col">
+                <h4>Datos Generales</h4>
+                <div><img src="http://apps.firco.gob.mx/icons/puc/usuario-de-perfil.png" class="icon-sm" /><strong> Nombre: </strong><sapn>@FullName</sapn></div>
+                <div><img src="http://apps.firco.gob.mx/icons/puc/puesto.png" class="icon-sm" /><span><strong> Puesto: </strong></span><span>@Puesto</span></div>
+                <div><img src="http://apps.firco.gob.mx/icons/puc/organizacion.png" class="icon-sm" /><span><strong> Área: </strong></span><span>@NombreDepartamentoSup / @NombreDepartamento</span></div>
+            </div>
+            <div class="col">
+                <h4>Datos de Contacto</h4>
+                <div><img src="http://apps.firco.gob.mx/icons/puc/correo.png" class="icon-sm" /><span><strong> Correo: </strong></span><span>@Email</span></div>
+                <div><img src="http://apps.firco.gob.mx/icons/puc/telefono.png" class="icon-sm" /><span><strong> Telefono: </strong></span><span>@Conmutador</span>, <span><strong>Ext.</strong>@Extension</span> </div>
+            </div>
+            <div class="col">
+                <h4>Ubicacion</h4>
+                <div>
+                    <img src="http://apps.firco.gob.mx/icons/puc/ubicacion.png" class="icon-sm" />
+                    <span><strong>Estado: </strong> @EntidadFederativa</span>, <span><strong> Ubicacion: </strong>@Ubicacion</span> 
+                </div>
+            </div>
+        </div>
+    </div>
+}
+

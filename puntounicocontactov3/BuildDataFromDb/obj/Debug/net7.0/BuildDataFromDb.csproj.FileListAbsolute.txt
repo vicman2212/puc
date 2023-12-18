@@ -1,0 +1,79 @@
+D:\Visual Studio\puntounicocontactov3\BuildDataFromDb\bin\Debug\net7.0\BuildDataFromDb.deps.json
+D:\Visual Studio\puntounicocontactov3\BuildDataFromDb\bin\Debug\net7.0\BuildDataFromDb.dll
+D:\Visual Studio\puntounicocontactov3\BuildDataFromDb\bin\Debug\net7.0\BuildDataFromDb.pdb
+D:\Visual Studio\puntounicocontactov3\BuildDataFromDb\bin\Debug\net7.0\ContextDataBase.dll
+D:\Visual Studio\puntounicocontactov3\BuildDataFromDb\bin\Debug\net7.0\ContextDataBase.pdb
+D:\Visual Studio\puntounicocontactov3\BuildDataFromDb\obj\Debug\net7.0\BuildDataFromDb.csproj.AssemblyReference.cache
+D:\Visual Studio\puntounicocontactov3\BuildDataFromDb\obj\Debug\net7.0\BuildDataFromDb.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\puntounicocontactov3\BuildDataFromDb\obj\Debug\net7.0\BuildDataFromDb.AssemblyInfoInputs.cache
+D:\Visual Studio\puntounicocontactov3\BuildDataFromDb\obj\Debug\net7.0\BuildDataFromDb.AssemblyInfo.cs
+D:\Visual Studio\puntounicocontactov3\BuildDataFromDb\obj\Debug\net7.0\BuildDataFromDb.csproj.CoreCompileInputs.cache
+D:\Visual Studio\puntounicocontactov3\BuildDataFromDb\obj\Debug\net7.0\BuildDataFromDb.csproj.CopyComplete
+D:\Visual Studio\puntounicocontactov3\BuildDataFromDb\obj\Debug\net7.0\BuildDataFromDb.dll
+D:\Visual Studio\puntounicocontactov3\BuildDataFromDb\obj\Debug\net7.0\refint\BuildDataFromDb.dll
+D:\Visual Studio\puntounicocontactov3\BuildDataFromDb\obj\Debug\net7.0\BuildDataFromDb.pdb
+D:\Visual Studio\puntounicocontactov3\BuildDataFromDb\obj\Debug\net7.0\ref\BuildDataFromDb.dll
+C:\Users\Empleado\Documents\Visual Studio 2022\DIRECTORIO\puntounicocontactov3\BuildDataFromDb\bin\Debug\net7.0\BuildDataFromDb.deps.json
+C:\Users\Empleado\Documents\Visual Studio 2022\DIRECTORIO\puntounicocontactov3\BuildDataFromDb\bin\Debug\net7.0\BuildDataFromDb.dll
+C:\Users\Empleado\Documents\Visual Studio 2022\DIRECTORIO\puntounicocontactov3\BuildDataFromDb\bin\Debug\net7.0\BuildDataFromDb.pdb
+C:\Users\Empleado\Documents\Visual Studio 2022\DIRECTORIO\puntounicocontactov3\BuildDataFromDb\bin\Debug\net7.0\ContextDataBase.dll
+C:\Users\Empleado\Documents\Visual Studio 2022\DIRECTORIO\puntounicocontactov3\BuildDataFromDb\bin\Debug\net7.0\ContextDataBase.pdb
+C:\Users\Empleado\Documents\Visual Studio 2022\DIRECTORIO\puntounicocontactov3\BuildDataFromDb\obj\Debug\net7.0\BuildDataFromDb.csproj.AssemblyReference.cache
+C:\Users\Empleado\Documents\Visual Studio 2022\DIRECTORIO\puntounicocontactov3\BuildDataFromDb\obj\Debug\net7.0\BuildDataFromDb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Empleado\Documents\Visual Studio 2022\DIRECTORIO\puntounicocontactov3\BuildDataFromDb\obj\Debug\net7.0\BuildDataFromDb.AssemblyInfoInputs.cache
+C:\Users\Empleado\Documents\Visual Studio 2022\DIRECTORIO\puntounicocontactov3\BuildDataFromDb\obj\Debug\net7.0\BuildDataFromDb.AssemblyInfo.cs
+C:\Users\Empleado\Documents\Visual Studio 2022\DIRECTORIO\puntounicocontactov3\BuildDataFromDb\obj\Debug\net7.0\BuildDataFromDb.csproj.CoreCompileInputs.cache
+C:\Users\Empleado\Documents\Visual Studio 2022\DIRECTORIO\puntounicocontactov3\BuildDataFromDb\obj\Debug\net7.0\BuildDataFromDb.csproj.CopyComplete
+C:\Users\Empleado\Documents\Visual Studio 2022\DIRECTORIO\puntounicocontactov3\BuildDataFromDb\obj\Debug\net7.0\BuildDataFromDb.dll
+C:\Users\Empleado\Documents\Visual Studio 2022\DIRECTORIO\puntounicocontactov3\BuildDataFromDb\obj\Debug\net7.0\refint\BuildDataFromDb.dll
+C:\Users\Empleado\Documents\Visual Studio 2022\DIRECTORIO\puntounicocontactov3\BuildDataFromDb\obj\Debug\net7.0\BuildDataFromDb.pdb
+C:\Users\Empleado\Documents\Visual Studio 2022\DIRECTORIO\puntounicocontactov3\BuildDataFromDb\obj\Debug\net7.0\ref\BuildDataFromDb.dll
+C:\Users\Empleado\Documents\Visual Studio 2022\0-ProyProduccion\puntounicocontactov3_Production\BuildDataFromDb\bin\Debug\net7.0\BuildDataFromDb.deps.json
+C:\Users\Empleado\Documents\Visual Studio 2022\0-ProyProduccion\puntounicocontactov3_Production\BuildDataFromDb\bin\Debug\net7.0\BuildDataFromDb.dll
+C:\Users\Empleado\Documents\Visual Studio 2022\0-ProyProduccion\puntounicocontactov3_Production\BuildDataFromDb\bin\Debug\net7.0\BuildDataFromDb.pdb
+C:\Users\Empleado\Documents\Visual Studio 2022\0-ProyProduccion\puntounicocontactov3_Production\BuildDataFromDb\bin\Debug\net7.0\ContextDataBase.dll
+C:\Users\Empleado\Documents\Visual Studio 2022\0-ProyProduccion\puntounicocontactov3_Production\BuildDataFromDb\bin\Debug\net7.0\ContextDataBase.pdb
+C:\Users\Empleado\Documents\Visual Studio 2022\0-ProyProduccion\puntounicocontactov3_Production\BuildDataFromDb\obj\Debug\net7.0\BuildDataFromDb.csproj.AssemblyReference.cache
+C:\Users\Empleado\Documents\Visual Studio 2022\0-ProyProduccion\puntounicocontactov3_Production\BuildDataFromDb\obj\Debug\net7.0\BuildDataFromDb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Empleado\Documents\Visual Studio 2022\0-ProyProduccion\puntounicocontactov3_Production\BuildDataFromDb\obj\Debug\net7.0\BuildDataFromDb.AssemblyInfoInputs.cache
+C:\Users\Empleado\Documents\Visual Studio 2022\0-ProyProduccion\puntounicocontactov3_Production\BuildDataFromDb\obj\Debug\net7.0\BuildDataFromDb.AssemblyInfo.cs
+C:\Users\Empleado\Documents\Visual Studio 2022\0-ProyProduccion\puntounicocontactov3_Production\BuildDataFromDb\obj\Debug\net7.0\BuildDataFromDb.csproj.CoreCompileInputs.cache
+C:\Users\Empleado\Documents\Visual Studio 2022\0-ProyProduccion\puntounicocontactov3_Production\BuildDataFromDb\obj\Debug\net7.0\BuildDataFromDb.csproj.CopyComplete
+C:\Users\Empleado\Documents\Visual Studio 2022\0-ProyProduccion\puntounicocontactov3_Production\BuildDataFromDb\obj\Debug\net7.0\BuildDataFromDb.dll
+C:\Users\Empleado\Documents\Visual Studio 2022\0-ProyProduccion\puntounicocontactov3_Production\BuildDataFromDb\obj\Debug\net7.0\refint\BuildDataFromDb.dll
+C:\Users\Empleado\Documents\Visual Studio 2022\0-ProyProduccion\puntounicocontactov3_Production\BuildDataFromDb\obj\Debug\net7.0\BuildDataFromDb.pdb
+C:\Users\Empleado\Documents\Visual Studio 2022\0-ProyProduccion\puntounicocontactov3_Production\BuildDataFromDb\obj\Debug\net7.0\ref\BuildDataFromDb.dll
+C:\Users\Empleado\Documents\Visual Studio 2022\0-ProyProduccion\puntounicocontactov3_Production051223\BuildDataFromDb\obj\Debug\net7.0\BuildDataFromDb.csproj.AssemblyReference.cache
+C:\Users\Empleado\Documents\Visual Studio 2022\0-ProyProduccion\puntounicocontactov3_Production051223\BuildDataFromDb\obj\Debug\net7.0\BuildDataFromDb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Empleado\Documents\Visual Studio 2022\0-ProyProduccion\puntounicocontactov3_Production051223\BuildDataFromDb\obj\Debug\net7.0\BuildDataFromDb.AssemblyInfoInputs.cache
+C:\Users\Empleado\Documents\Visual Studio 2022\0-ProyProduccion\puntounicocontactov3_Production051223\BuildDataFromDb\obj\Debug\net7.0\BuildDataFromDb.AssemblyInfo.cs
+C:\Users\Empleado\Documents\Visual Studio 2022\0-ProyProduccion\puntounicocontactov3_Production051223\BuildDataFromDb\obj\Debug\net7.0\BuildDataFromDb.csproj.CoreCompileInputs.cache
+C:\Users\Empleado\Documents\Visual Studio 2022\0-ProyProduccion\puntounicocontactov3_Production051223\BuildDataFromDb\obj\Debug\net7.0\BuildDataFromDb.dll
+C:\Users\Empleado\Documents\Visual Studio 2022\0-ProyProduccion\puntounicocontactov3_Production051223\BuildDataFromDb\obj\Debug\net7.0\refint\BuildDataFromDb.dll
+C:\Users\Empleado\Documents\Visual Studio 2022\0-ProyProduccion\puntounicocontactov3_Production051223\BuildDataFromDb\obj\Debug\net7.0\BuildDataFromDb.pdb
+C:\Users\Empleado\Documents\Visual Studio 2022\0-ProyProduccion\puntounicocontactov3_Production051223\BuildDataFromDb\bin\Debug\net7.0\BuildDataFromDb.deps.json
+C:\Users\Empleado\Documents\Visual Studio 2022\0-ProyProduccion\puntounicocontactov3_Production051223\BuildDataFromDb\bin\Debug\net7.0\BuildDataFromDb.dll
+C:\Users\Empleado\Documents\Visual Studio 2022\0-ProyProduccion\puntounicocontactov3_Production051223\BuildDataFromDb\bin\Debug\net7.0\BuildDataFromDb.pdb
+C:\Users\Empleado\Documents\Visual Studio 2022\0-ProyProduccion\puntounicocontactov3_Production051223\BuildDataFromDb\bin\Debug\net7.0\ContextDataBase.dll
+C:\Users\Empleado\Documents\Visual Studio 2022\0-ProyProduccion\puntounicocontactov3_Production051223\BuildDataFromDb\bin\Debug\net7.0\Templates.dll
+C:\Users\Empleado\Documents\Visual Studio 2022\0-ProyProduccion\puntounicocontactov3_Production051223\BuildDataFromDb\bin\Debug\net7.0\ContextDataBase.pdb
+C:\Users\Empleado\Documents\Visual Studio 2022\0-ProyProduccion\puntounicocontactov3_Production051223\BuildDataFromDb\bin\Debug\net7.0\Templates.pdb
+C:\Users\Empleado\Documents\Visual Studio 2022\0-ProyProduccion\puntounicocontactov3_Production051223\BuildDataFromDb\obj\Debug\net7.0\BuildDataFromDb.csproj.CopyComplete
+C:\Users\Empleado\Documents\Visual Studio 2022\0-ProyProduccion\puntounicocontactov3_Production051223\BuildDataFromDb\obj\Debug\net7.0\ref\BuildDataFromDb.dll
+D:\Git\puc\puntounicocontactov3\BuildDataFromDb\bin\Debug\net7.0\BuildDataFromDb.deps.json
+D:\Git\puc\puntounicocontactov3\BuildDataFromDb\bin\Debug\net7.0\BuildDataFromDb.dll
+D:\Git\puc\puntounicocontactov3\BuildDataFromDb\bin\Debug\net7.0\BuildDataFromDb.pdb
+D:\Git\puc\puntounicocontactov3\BuildDataFromDb\bin\Debug\net7.0\ContextDataBase.dll
+D:\Git\puc\puntounicocontactov3\BuildDataFromDb\bin\Debug\net7.0\Templates.dll
+D:\Git\puc\puntounicocontactov3\BuildDataFromDb\bin\Debug\net7.0\ContextDataBase.pdb
+D:\Git\puc\puntounicocontactov3\BuildDataFromDb\bin\Debug\net7.0\Templates.pdb
+D:\Git\puc\puntounicocontactov3\BuildDataFromDb\obj\Debug\net7.0\BuildDataFromDb.csproj.AssemblyReference.cache
+D:\Git\puc\puntounicocontactov3\BuildDataFromDb\obj\Debug\net7.0\BuildDataFromDb.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\puc\puntounicocontactov3\BuildDataFromDb\obj\Debug\net7.0\BuildDataFromDb.AssemblyInfoInputs.cache
+D:\Git\puc\puntounicocontactov3\BuildDataFromDb\obj\Debug\net7.0\BuildDataFromDb.AssemblyInfo.cs
+D:\Git\puc\puntounicocontactov3\BuildDataFromDb\obj\Debug\net7.0\BuildDataFromDb.csproj.CoreCompileInputs.cache
+D:\Git\puc\puntounicocontactov3\BuildDataFromDb\obj\Debug\net7.0\BuildDataFromDb.csproj.CopyComplete
+D:\Git\puc\puntounicocontactov3\BuildDataFromDb\obj\Debug\net7.0\BuildDataFromDb.dll
+D:\Git\puc\puntounicocontactov3\BuildDataFromDb\obj\Debug\net7.0\refint\BuildDataFromDb.dll
+D:\Git\puc\puntounicocontactov3\BuildDataFromDb\obj\Debug\net7.0\BuildDataFromDb.pdb
+D:\Git\puc\puntounicocontactov3\BuildDataFromDb\obj\Debug\net7.0\ref\BuildDataFromDb.dll

@@ -1,0 +1,46 @@
+﻿@*
+    Actualizacion de un empleado
+*@
+@model HeaderViewModel
+@{
+    ViewData["title"] = "AdminApp";
+}
+<partial name="_MenuPrincipal" />
+<partial name="_FichaUsuario" />
+<div id="msn-alert-adminEmp"></div>
+@* <div style="font-family: 'Montserrat';margin: auto; width: 70%"> *@
+
+    @* Aqui el encabezado *@
+    <div style="background: #b38e5d;height: 0.5rem;"></div>
+    @await Component.InvokeAsync("FormatsHeader",new HeaderViewModel{Institucion="Fideicomiso de Riesgo Compartido",
+                                                                    Direccion=Model.Direccion,
+                                                                    Gerencia=Model.Gerencia,
+                                                                    TipoF=Model.TipoF,
+                                                                    VersionF=Model.VersionF})
+    <div style="background: white;height: 0.5rem;"></div>
+    @await Component.InvokeAsync("UpdateEmp",ViewData["idEmpleado"])
+    <div style="background: white;height: 0.5rem;"></div>
+    <div class="mt-2 mb-2">
+        <button id="btn-sc-admemp" type="button" class="btn btn-success">Guardar</button>
+        <a class="btn btn-danger" asp-action="DirectorioFIRCO" asp-controller="Directorio">Cancelar</a>
+    </div>
+@* </div> *@
+
+@* Modal de notificaciones *@
+<div class="modal fade" id="Modal-adminEmp" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+    <div class="modal-dialog modal-xl">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="staticBackdropLabel">NOTIFICACIÓN DE ACTUALIZACIÓN</h5>
+            </div>
+            <div class="modal-content" id="ContenidoModal">
+               <div id="notific-modal-adminEmp" class="alert alert-success">
+                   
+               </div>
+            </div>
+            <div class="modal-footer">
+                <a asp-action="MainApp" asp-controller="Home" class="btn btn-warning">Cerrar</a>
+            </div>
+        </div>
+    </div>
+</div>

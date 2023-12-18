@@ -1,0 +1,44 @@
+﻿@inject Microsoft.AspNetCore.Http.IHttpContextAccessor HttpContextAccessor;
+<div class="cintilla"></div>
+<div class="row">
+    <div class="col">
+        <img src="http://apps.firco.gob.mx/icons/Logo-Secretaria-FIRCO.png" class="icon-banner" style="text-align:end;font-size:.8rem;" />
+    </div>
+</div>
+<div class="row mt-1">
+    <div class="col" style="text-align:center">
+        <h3>FIDEICOMISO DE RIESGO COMPARTIDO</h3>
+        <h4>DIRECTORIO TELEFÓNICO</h4>
+    </div>
+    <div class="col-3" style="text-align:end;font-size:.8rem;">
+        <div><strong>Última Actualización: <sapan id="tipo-formato">31-08-2023</sapan></strong></div>
+    </div>
+</div>
+<div class="col-md-12 row">
+    <div class="col-md-6" style="align-items:center">
+        @*<h6>Buscar: </h6>*@
+        <div class="input-group mb-3">
+            <input id="Dir-bus-rgx" type="text" class="form-control"
+                   placeholder="Busqueda Rápida, ingresa palabras clave para encontrar coincidencias" />
+            <button class="btn btn-outline-success" type="button" id="btn-busqueda-rgx">Buscar</button>
+        </div>
+    </div>
+    <div class="col-md-6">
+        @*  <h6>Búsqueda específica:</h6>*@
+        @*Invocar componente*@
+        @await Component.InvokeAsync("ListaPuestos")
+    </div>
+</div>
+<div style="text-align:left">
+    @* Despliega informacion si esta autenticado el usuario *@
+    @if (HttpContextAccessor.HttpContext.User.Identity.IsAuthenticated)
+    {
+        <a class="btn btn-warning" asp-controller="Home" asp-action="MainApp">Regresa Menu</a>
+    }else{
+        <a class="btn btn-warning" asp-controller="Home" asp-action="Index">Regresa Home</a>
+    }
+</div>
+@*<button id="RealizaPDF" onclick="HacePDF()" type="button" class="btn btn-success"> hacer pdf</button>*@
+<br />
+<div class="cintilla"></div>
+

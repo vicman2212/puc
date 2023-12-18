@@ -1,0 +1,80 @@
+﻿@model LCatalogosModel
+
+
+<form asp-controller="AdminEmpleado" asp-action="InsertEmpleado" method="post">
+    <div class="container">
+        <div class="row alert-info">
+            <strong>¡Atencion!</strong> <sapn>Los campor marcados con <strong><em>asterisco (*)</em></strong> son obligatorios</sapn>
+        </div>
+        <div class="row">
+            <div class="col">
+                <div class="mt-2">
+                    <input name="NoEmpleado" type="number" class="form-control rounded-pill" 
+                    placeholder="Número de trabajador" />
+                    <sapn class="d-inline" style="color:red;">*</sapn>
+                </div>
+                <div class="mt-2">
+                    <input name="Nombres" type="text" class="form-control rounded-pill input-mayus" placeholder="Nombres" />
+                    <strong style="color:red;">*</strong>
+                </div>
+                <div class="mt-2">
+                    <input name="ApellidoPaterno" type="text" class="form-control rounded-pill input-mayus" placeholder="Apellido Paterno" />
+                    <strong style="color:red;">*</strong>
+                </div>
+                <div class="mt-2">
+                    <input name="ApellidoMeterno" type="text" class="form-control rounded-pill input-mayus" placeholder="Apellido Materno" />
+                    <strong style="color:red;">*</strong>
+                </div>
+@*              <div class="mt-2">
+                    <input name="Correo" type="email" class="form-control rounded-pill" placeholder="Correo" />
+                    <strong style="color:red;">*</strong>
+                </div> *@
+                <div class="mt-2">
+                    <input name="Extension" type="text" class="form-control rounded-pill" placeholder="Extension" />
+                    <strong style="color:red;">*</strong>
+                </div>
+                <div class="mt-2">
+                    <select id="change-entidad-id" class="form-select-report rounded-pill change-entidad">
+                        <option value=0>Selecciona Entidad Federativa</option>
+                        @foreach (var item in Model.viewGerencia)
+                        {
+                            <option value="@item.IdGerencia">@item.EntidadFederativa</option>
+                        }
+                    </select>
+                    <strong style="color:red;">*</strong>
+                </div>
+                <div id="entidad-to-depto" class="mt-2">
+                    <select id="change-area-id" name="DepartamentoId" class="form-select-report rounded-pill change-area">
+                        <option value=0>Selecciona la Entidad Federativa</option>
+                    </select>
+                    <strong style="color:red;">*</strong>
+                </div>
+                <div id="depto-to-puesto" class="mt-2">
+                    <select name="PuestoId" id="change-puesto-id" class="form-select-report rounded-pill">
+                        <option value=0>Selecciona la Entidad Federativa y Puesto</option>
+                    </select>
+                    <strong style="color:red;">*</strong>
+                </div>
+            </div>
+          @*   <div class="col">
+                <div class="mt-2">
+                    <input id="telefono" type="text" class="form-control rounded-pill" placeholder="Telefono (Opcional)" />
+                </div>
+                <div class="mt-2">
+                    <input id="extension" type="text" class="form-control rounded-pill" placeholder="Extension (opcional)" />
+                </div>
+                <div class="mt-2">
+                    <input id="ldDistribucion" type="text" class="form-control rounded-pill" placeholder="Indique la Lista de Distribucion LD (opcional)" />
+                </div>
+                <div class="row m-2">
+                    <textarea id="idDetalles" class="form-control text-area-m" required="" placeholder="Detalles  (opcional)"></textarea>
+                </div>
+            </div> *@
+        </div>
+        <input id="submit-insertEmp" type="submit" class="btn btn-success" />
+    </div>
+    <div asp-validation-summary="All" class="alert-danger"></div>
+</form>
+
+
+

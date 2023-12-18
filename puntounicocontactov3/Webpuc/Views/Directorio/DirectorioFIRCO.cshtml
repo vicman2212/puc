@@ -1,0 +1,141 @@
+﻿@*
+   Vista principal del Directorio
+*@
+@model IEnumerable<ViewGerencium>
+@{
+    ViewData["title"] = "Directorio";
+}
+
+<partial name="_navDirectorio"/>
+@* Para el caso de Oficinas Centrales Esto es filtro dependiente por departamentos*@
+@foreach (var item in Model.AsQueryable())
+{
+    if (item.IdGerencia == 9)
+    {
+        <div class="accordion accordion-flush" id="accordionFlushExample">
+            <div class="accordion-item">
+                <h2 class="accordion-header" id="flush-heading_@item.IdGerencia">
+                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapse_@item.IdGerencia" aria-expanded="false" aria-controls="flush-collapse_@item.IdGerencia">
+                        OFICINAS CENTRALES
+                    </button>
+                </h2>
+                <div id="flush-collapse_@item.IdGerencia" class="accordion-collapse collapse" aria-labelledby="flush-heading_@item.IdGerencia" data-bs-parent="#accordionFlushExample">
+                    <div class="accordion-body">
+                        <div class="row">
+                            <div class="col">
+                                <strong>Direccion:</strong><span>@item.EntidadFederativa; @item.Localidad; @item.Municipio; @item.Calle; C.P. @item.CodigoPostal</span>
+                            </div>
+                            <div class="col">
+                                <strong>Conmutador: </strong><span>@item.Conmutador</span>
+                            </div>
+                            <div class="col">
+                                <strong>Marcación Rápida: </strong><span>@item.MarcRapida</span>
+                            </div>
+                        </div>
+                        <div id="personal-table">
+                            @* Para el caso de oficinas centrales se despliega el directorio por departementos *@
+                            @await Component.InvokeAsync("DirectorioVOC",0)
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        break;
+    }
+}
+@* <div class="accordion accordion-flush" id="accordionFlushExample">
+    @await Component.InvokeAsync("DirectorioVOC",0)
+</div> *@
+
+ <div class="accordion accordion-flush" id="accordionFlushExample"> 
+    @* Para el caso de las gerencias estatales *@
+    @foreach (var item in Model.AsQueryable())
+    {       
+        if (item.IdGerencia != 9)
+        {
+            <div class="accordion-item" style="font-size:.8rem">
+                <h2 class="accordion-header" id="flush-headingOne">
+                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapse_@item.IdGerencia" aria-expanded="false" aria-controls="flush-collapse_@item.IdGerencia">
+                        @{
+
+                            if (item.IdGerencia == 34)//Caso OIC
+                            {
+                                <span>ÓRGANO INTERNO DE CONTROL</span>
+                            }
+                            else if (item.IdGerencia == 33)// Caso comarca
+                            {
+                                <span>COMARCA LAGUNERA</span>
+                            }
+                            else
+                            {
+                                @item.EntidadFederativa.ToUpper()
+                            }
+                        }
+                    </button>
+                </h2>
+                <div id="flush-collapse_@item.IdGerencia" class="accordion-collapse collapse" aria-labelledby="flush-headingOne" data-bs-parent="#accordionFlushExample">
+                    <div class="accordion-body">
+                        <div class="row">
+                            <div class="col">
+                                <strong>Direccion:</strong><span>@item.EntidadFederativa; @item.Localidad; @item.Municipio; @item.Calle; C.P. @item.CodigoPostal</span>
+                            </div>
+                            <div class="col">
+                                <strong>Conmutador: </strong><span>@item.Conmutador</span>
+                            </div>
+                            <div class="col">
+                                <strong>Marcación Rápida: </strong><span>@item.MarcRapida</span>
+                            </div>
+                        </div>
+                        <div id="personal-table">
+                            @* Para el caso de oficinas centrales se despliega el directorio por departementos *@
+                            @await Component.InvokeAsync("DirectorioPG",new {idGerencia = item.IdGerencia, idDepartamento = 0} )
+                        </div>
+                    </div>
+                </div>
+            </div>
+        }        
+    }
+</div>
+
+@* Despliegue de la modal para los resultados buscados *@
+<!-- Modal -->
+<div class="modal fade" id="Modal" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+    <div class="modal-dialog modal-xl">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="staticBackdropLabel">DIRECTORIO FIRCO | RESULTADO DE BUSQUEDA</h5>
+                <button type="button" id="change-close-tik" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-content" id="ContenidoModal">
+                <div>
+                    <table id="tres-personal" class="table">
+                        <thead>
+                            <tr>
+                                <th scope="col">Nombre</th>
+                                <th scope="col">Puesto</th>
+                                <th scope="col">Área</th>
+                                <th scope="col">Correo</th>
+                                <th scope="col">Ext.</th>
+                            </tr>
+                        </thead>
+                        <tbody id="succeded-spersonal">
+                            @* Aqui datos resultado *@
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-danger" id="change-close-btn" data-bs-dismiss="modal">Cerrar</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+@* Modal para notificaciones *@
+<div class="modal fade" id="ModalNotificaciones" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+    <div class="modal-dialog modal-xl" role="document">
+        <div class="modal-content" id="ContenidoModalNotificaciones">
+          @* Contenido dinamico en event-select *@  
+        </div>
+    </div>
+</div>

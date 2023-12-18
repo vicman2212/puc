@@ -1,0 +1,14 @@
+﻿@model IEnumerable<Puesto>
+
+
+  <div class="dropdown">
+    <select class="custom-select rounded-pill" id="Busqueda-pues">
+        <option value="0">Seleccione el puesto</option>
+        @foreach (var item in Model.AsQueryable())
+        {
+            <option value="@item.IdPuesto">@item.Puesto1</option>
+        }
+    </select>
+</div>
+
+

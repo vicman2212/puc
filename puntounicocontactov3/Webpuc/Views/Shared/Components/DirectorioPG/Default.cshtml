@@ -1,0 +1,48 @@
+﻿@inject Microsoft.AspNetCore.Http.IHttpContextAccessor HttpContextAccessor;
+@using System.Security.Claims;
+@*Componente especfico para mostar la tabla del personal del FIRCO*@
+@model IEnumerable<ViewEmpleado>
+
+
+
+<table id="t-personal" class="table">
+    <thead>
+        <tr>
+            <th scope="col">Nombre</th>
+            <th scope="col">Puesto</th>
+            <th scope="col">Área</th>
+            <th scope="col">Correo</th>
+            <th scope="col">Ext.</th>
+            @* Validacion para usuarios autenticados *@
+            @if (HttpContextAccessor.HttpContext.User.Identity.IsAuthenticated
+            && HttpContextAccessor.HttpContext.User.FindFirst(ClaimTypes.Role).Value == "RPA_004")
+            {
+                <th scope="col">Edita</th>
+            }
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.AsQueryable())
+        {
+            <tr>
+                <td> <strong>@item.Nombres @item.ApellidoPaterno @item.ApellidoMaterno</strong></td>
+                <td>@item.Puesto</td>
+                <td>@item.NombreDepartamento</td>
+                <td>@item.Correo</td>
+                <td>@item.Extension</td>
+                <td>
+                    @* Validacion para usuarios autenticados *@
+                    @if (HttpContextAccessor.HttpContext.User.Identity.IsAuthenticated
+                   && HttpContextAccessor.HttpContext.User.FindFirst(ClaimTypes.Role).Value == "RPA_004")
+                    {
+                        <a asp-action="UpdateEmp" asp-controller="AdminEmpleado" asp-route-NoEmpleado="@item.NoEmpleado">
+                            <img style="cursor:pointer" id="btn-edit-area" src="http://apps.firco.gob.mx/icons/AdminEmpleados/edicion.png" class="icon-sm" />
+                        </a>
+                    }
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+

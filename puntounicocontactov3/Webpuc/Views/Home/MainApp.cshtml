@@ -1,0 +1,12 @@
+﻿@*
+    Vista principal de la aplicacion 
+*@
+@inject Microsoft.AspNetCore.Http.IHttpContextAccessor HttpContextAccessor;
+@{
+    ViewData["title"] = "Principal";
+}
+
+<partial name = "_MenuPrincipal"/>
+<partial name="_FichaUsuario" />
+@await Component.InvokeAsync("ModuleAccess",
+                            Int32.Parse(HttpContextAccessor.HttpContext.User.FindFirst("Id").Value.ToString()))

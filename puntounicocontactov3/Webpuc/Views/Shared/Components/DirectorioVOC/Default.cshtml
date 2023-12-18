@@ -1,0 +1,42 @@
+﻿
+@*Componente especfico para mostar la jerarquia al interior de las oficinas centrales del FIRCO
+    Esta vista, quitando el filtro nos despliega las tablas de acuerdo a la division en todas las areas de gerenicas estatales
+    en este caso se deshabilita colocando a el id para oficinas centrales en el ViewComponent
+*@
+@model IEnumerable<Departamento>
+
+@* <div class="accordion accordion-flush mt-1" id="accordionFlushOC"> *@
+    @foreach (var item in Model.AsQueryable())
+    {
+        <div class="accordion-item" style="font-size:.8rem">
+            <h2 class="accordion-header" id="flush-headingOC">
+                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapse_@item.IdDepartamento" aria-expanded="false" aria-controls="flush-collapse_@item.IdDepartamento">
+                @{
+                    if (item.IdDepartamento == 100)
+                    {
+                        <sapn>OFICINAS CENTRALES - @item.NombreDepartamento</sapn>
+                    }else
+                    {
+
+                        @item.NombreDepartamento                    }
+
+                }
+                    
+                </button>
+            </h2>
+            <div id="flush-collapse_@item.IdDepartamento" class="accordion-collapse collapse" aria-labelledby="flush-headingOC" data-bs-parent="#accordionFlushOC">
+                <div class="accordion-body">
+                    <div id="personal-table">
+                        @*Personal directo*@
+                        @await Component.InvokeAsync("DirectorioPG",new {idGerencia = item.GerenciaId, idDepartamento = item.IdDepartamento} )
+                        @*Subnivel herdado*@
+                        @await Component.InvokeAsync("DirectorioVOC",item.IdDepartamento)
+                    </div>
+                </div>
+            </div>
+        </div>
+    }
+@* </div>
+ *@
+
+

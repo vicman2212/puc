@@ -1,0 +1,21 @@
+﻿@model HeaderViewModel
+
+
+<div style="background-color: #F6F6F6; text-align: center; padding: 1rem;">
+    <div style="display: flex;">
+        <div style=" width: 20%;height: 7rem; padding-top: .5rem;">
+            <img src="http://apps.firco.gob.mx/icons/Logo-FIRCO.png" width="55%" />
+        </div>
+        <div style="width: 70%;padding-top: 1rem;">
+            <div style="font-size: larger; margin-bottom: .4rem;"><strong>@Model.Institucion</strong></div>
+            <div style="font-size: medium; margin-bottom: .4rem;"><strong>@Model.Gerencia</strong></div>
+            <div style="font-size: small; margin-bottom: .4rem;"><strong></strong></div>
+        </div>
+        <div style="width: 20%; padding-top: 1rem;">
+            <div style="font-size: medium; margin-bottom: .4rem;"><strong>Formato: </strong><span>@Model.TipoF</span></div>
+            <div style="font-size: medium; margin-bottom: .4rem;"><strong>Version: </strong><span>@Model.VersionF</span></div>
+        </div>
+    </div>
+</div>
+
+
