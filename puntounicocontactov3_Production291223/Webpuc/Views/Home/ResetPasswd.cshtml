@@ -1,0 +1,62 @@
+﻿@inject Microsoft.AspNetCore.Http.IHttpContextAccessor HttpContextAccessor;
+@{
+    ViewData["title"] = "nuevo pass";
+}
+<div>
+    <div class="alert-info">
+        <h5>Reglas de contraseña</h5>
+        <ul>
+            <li>Tener un maximo de <strong>17</strong> caracteres.</li>
+            <li>Contener al menos un carácter alfabético en mayúscula y uno numérico.</li>
+            <li>Combinar letras mayúsculas, minúsculas, números y caracteres especiales.</li>
+            <li>Por caracteres especiales, el usuario podrá utilizar: <strong>#%&/</strong></li>
+        </ul>
+    </div>
+    <div class="alert-warning">
+        <h5>¡Atencion! Una vez actualizada la contraseña, deberá ingresar de nuevo con esta <em>contraseña nueva</em></h5>
+    </div>
+    
+    <form class="rounded-3 shadow-lg mt-5 p-2" style="width:40%;margin:auto">
+
+        <div class="container-fluid">
+            <div id="msn-reset-pass"></div>
+            <div class="m-2">
+                <label><strong>PARA EL USUARIO:</strong></label>
+                <input readonly type="text" class="form-control" id="id-reset-usr" value="@HttpContextAccessor.HttpContext.User.FindFirst("Usuario").Value" />
+            </div>
+            <div class="m-2">
+                <label><strong>NUEVA CONTRASEÑA:</strong></label>
+                <input id="id-set-pass" type="password" class="form-control ctrl-passwd" required />
+            </div>
+            <div class="m-2">
+                <label><strong>REPITA LA NUEVA CONTRASEÑA:</strong></label>
+                <input id="id-reset-pass" type="password" class="form-control ctrl-passwd" required />
+            </div>
+            <div class="row">
+                <div class="col m-2">
+                    <button id="btn-reset-passwd" class="btn btn-success">ACTUALIZAR</button>
+                </div>
+            </div>
+        </div>
+        @* <div asp-validation-summary="All" class="alert-danger"></div> *@
+    </form>
+</div>
+
+@* MODAL DE ALERTA *@
+<!-- Modal -->
+<div class="modal fade" id="modalId-resetPwd" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLabel">Error al resetear su contraseña</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body alert alert-danger" id="alertb-reset-pass">
+                
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Atras</button>
+            </div>
+        </div>
+    </div>
+</div>

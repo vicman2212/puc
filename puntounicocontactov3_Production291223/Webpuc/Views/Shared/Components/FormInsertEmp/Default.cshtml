@@ -1,0 +1,83 @@
+﻿@model LCatalogosModel
+
+
+<form>
+    <div class="container">
+        <div class="row alert-info">
+            <strong>¡Atencion!</strong> <sapn>Los campor marcados con <strong><em>asterisco (*)</em></strong> son obligatorios</sapn>
+        </div>
+        <div class="row">
+            <div class="col">
+                <div class="mt-2">
+                    <input id="id-NoEmpleado" type="number" class="form-control rounded-pill" placeholder="Número de trabajador" />
+                    <sapn class="d-inline" style="color:red;">* Campo con número de digitos entre 2 a 5</sapn>
+                </div>
+                <div class="mt-2">
+                    <input id="id-FirstName" type="text" class="form-control rounded-pill input-mayus" placeholder="Primer Nombre" />
+                    <span style="color:red;">* Campo obligatorio, solo acepta caracteres del alfabeto</span>
+                </div>
+                <div class="mt-2">
+                    <input id="id-SecondName" type="text" class="form-control rounded-pill input-mayus" placeholder="Segundo Nombre (Opcional)" />  
+                    <span style="color:#084298;">Campo OPCIONAL, solo acepta caracteres del alfabeto</span>
+                </div>
+                <div class="mt-2">
+                    <input id="id-ApeP" type="text" class="form-control rounded-pill input-mayus class-Apell" placeholder="Apellido Paterno" />
+                    <span style="color:red;">* Campo obligatorio, solo acepta caracteres del alfabeto</span>
+                </div>
+                <div class="mt-2">
+                    <input id="id-ApeM" type="text" class="form-control rounded-pill input-mayus class-Apell" placeholder="Apellido Materno" />
+                    <span style="color:red;">* Campo obligatorio, solo acepta caracteres del alfabeto</span>
+                </div>
+                <div class="mt-2">
+                    <input id="id-ext" type="text" class="form-control rounded-pill" placeholder="Extension" />
+                    <span style="color:#084298;">Campo OPCIONAL</span>
+                </div>
+                <div class="mt-2">
+                    <partial name="_ListEFContextFIRCO" />
+                    <span style="color:red;">* Elemento de seleccion obligatorio para definir la ubicación del empleado</span>
+                </div>
+                <div id="entidad-to-depto" class="mt-2">
+                    <select id="change-area-id" class="form-select-report rounded-pill change-area">
+                        <option value=0>Selecciona la Entidad Federativa</option>
+                    </select>
+                    <span style="color:red;">*</span>
+                </div>
+                <div id="depto-to-puesto" class="mt-2">
+                    <select id="change-puesto-id" class="form-select-report rounded-pill">
+                        <option value=0>Selecciona la Entidad Federativa y Puesto</option>
+                    </select>
+                    <span style="color:red;">*</span>
+                </div>
+            </div>
+        </div>
+        <div class="row container-fluid">
+            <div class="col">
+                <input id="submit-insertEmp" type="submit" class="btn btn-success" value="INSERTAR"/>
+            </div>
+            <div class="col">
+                <a class="btn btn-danger" asp-controller="Home" asp-action="MainApp">CANCELAR</a>
+            </div>
+        </div>
+        
+    </div>
+    @* <div asp-validation-summary="All" class="alert-danger"></div> *@
+</form>
+
+
+@* Notificacion de errores  *@
+<div class="modal fade" id="modalId-insertEmp" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLabel">Atencion en lo que se ingresa al campo</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body alert alert-danger" id="alert-insert-emp">
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Atras</button>
+            </div>
+        </div>
+    </div>
+</div>
+

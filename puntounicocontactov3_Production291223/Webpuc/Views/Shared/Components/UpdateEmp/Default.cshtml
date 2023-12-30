@@ -1,0 +1,92 @@
+﻿@model UpdateEmpModel
+
+<div class="row">
+    <div class="col mt-2">
+        <div class="d-inline"><strong>Número de Empleado: </strong></div>
+        <div id="id-no-emp" class="d-inline bg-light rounded-pill shadow" style="width:90%;text-align:center">@Model.UserIdentity.NoEmpleado</div>
+    </div>
+    <div class="col mt-2" style="text-align:end">
+        <strong>Gerencia a la que pertenece: </strong>
+        <div id="fecha-solicitud" class="d-inline bg-light rounded-pill shadow">@Model.UserIdentity.State, @Model.UserIdentity.DirDepartment</div>
+        <partial name="_ListEFContextFIRCO" />
+@*         <select class="custom-select rounded-pill change-entidad" id="change-entidad-id">
+            <option value="0">MODIFICA LA UBICACIÓN</option>
+            @foreach (var item in Model.lCatalogosModels.viewGerencia.AsQueryable())
+            {
+                <option value="@item.IdGerencia">@item.EntidadFederativa</option>
+            }
+        </select> *@
+    </div>
+</div>
+<div class="row">
+    <div class="col-7 p2">
+        <div class="mt-3">
+            <div class="d-inline"><strong>Nombre: </strong></div>
+            <div class="d-inline bg-light rounded-pill shadow" style="width:90%;text-align:center">@Model.UserIdentity.FullName</div>
+        </div>
+        <div class="mt-3">
+            <div class="d-inline"><strong>Correo: </strong></div>
+            <div class="d-inline bg-light rounded-pill shadow" style="width:90%;text-align:center">@Model.UserIdentity.Email</div>
+        </div>
+        <div class="mt-3">
+            <div class="d-inline"><strong>Área Actual: </strong></div>
+            <div class="d-inline bg-light rounded-pill shadow" style="width:90%;text-align:center" id="departamento" idDepartamento="@Model.UserIdentity.IdDirDeparment">@Model.UserIdentity.DirDepartment</div>
+            <div class="d-inline">
+                <img id="btn-edit-area" src="http://apps.firco.gob.mx/icons/AdminEmpleados/edicion.png" class="icon-sm" />
+            </div>
+            <div>
+                <select class="custom-select rounded-pill change-area" id="change-area-id">
+                    <option value="0">MODIFICA EL ÁREA</option>
+                    @foreach (var item in Model.lCatalogosModels.Departamentos.AsQueryable())
+                    {
+                        <option value="@item.IdDepartamento">@item.NombreDepartamento</option>
+                    }
+                </select>
+            </div>
+        </div>
+        <div class="mt-3">
+            <div class="d-inline"><strong>Puesto Actual: </strong></div>
+            <div class="d-inline bg-light rounded-pill shadow" style="width:90%;text-align:center">@Model.UserIdentity.Job</div>
+            <div class="d-inline"><img src="http://apps.firco.gob.mx/icons/AdminEmpleados/edicion.png" class="icon-sm" /></div>
+            @*  La modificacion del puesto va en funcion del tope del area, es decir si estas en una subgerencia
+        hay que desplegar puestos que no superen al nivel de subgerente*@
+            <div>
+                <select class="custom-select rounded-pill" id="change-puesto-id">
+                    <option value="0">MODIFICA EL PUESTO</option>
+                    @foreach (var item in Model.lCatalogosModels.Puestos.AsQueryable())
+                    {
+                        <option value="@item.IdPuesto">@item.Puesto1</option>
+                    }
+                </select>
+            </div>
+
+        </div>
+    </div>
+    <div class="col-5 p-2" style="text-align:end">
+        <div class="mt-3">
+            <div class="d-inline"><strong>Telefono: </strong></div>
+            <div class="d-inline bg-light rounded-pill shadow" style="width:90%;text-align:center">
+                @Model.UserIdentity.Phone<strong> Ext.</strong><span id="db-ext">@Model.UserIdentity.Ext</span>
+            </div><div class="d-inline"><img src="http://apps.firco.gob.mx/icons/AdminEmpleados/edicion.png" class="icon-sm" /></div>
+            <div class="d-flex">
+                <div class="p-2">Edita la Extension: </div>
+                <input id="change-ext" style="width:30%" class="form-control" type="text" value="@Model.UserIdentity.Ext" />
+            </div>
+        </div>
+        <div class="mt-3">
+            <div class="d-inline"><strong>Ubicación: </strong></div>
+            <div class="d-inline bg-light rounded-pill shadow" style="width:90%;text-align:center">@Model.UserIdentity.Locate</div>
+        </div>
+        <div class="mt-3">
+            <div class="d-inline"><strong>Estatus del Empleado: Activo</strong></div>
+            <div>
+                <span>Atención al modificar el status el usuario no aparecera en el directorio</span>
+                <select class="custom-select rounded-pill" id="change-status">
+                   
+                    <option value="1">ACTIVO</option>
+                    <option value="0">DESHABILIDADO</option>
+                </select>
+            </div>
+        </div>
+    </div>
+</div>
