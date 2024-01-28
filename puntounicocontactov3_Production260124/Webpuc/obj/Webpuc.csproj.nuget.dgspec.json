@@ -1,0 +1,529 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production291223\\Webpuc\\Webpuc.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production291223\\BuildDataFromDb\\BuildDataFromDb.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production291223\\BuildDataFromDb\\BuildDataFromDb.csproj",
+        "projectName": "BuildDataFromDb",
+        "projectPath": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production291223\\BuildDataFromDb\\BuildDataFromDb.csproj",
+        "packagesPath": "C:\\Users\\Empleado\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production291223\\BuildDataFromDb\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Empleado\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production291223\\ContextDataBase\\ContextDataBase.csproj": {
+                "projectPath": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production291223\\ContextDataBase\\ContextDataBase.csproj"
+              },
+              "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production291223\\Templates\\Templates.csproj": {
+                "projectPath": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production291223\\Templates\\Templates.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[7.0.14, 7.0.14]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[7.0.14, 7.0.14]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[7.0.14, 7.0.14]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production291223\\ContextDataBase\\ContextDataBase.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production291223\\ContextDataBase\\ContextDataBase.csproj",
+        "projectName": "ContextDataBase",
+        "projectPath": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production291223\\ContextDataBase\\ContextDataBase.csproj",
+        "packagesPath": "C:\\Users\\Empleado\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production291223\\ContextDataBase\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Empleado\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.13, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.13, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[7.0.14, 7.0.14]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[7.0.14, 7.0.14]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[7.0.14, 7.0.14]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production291223\\Message\\Message.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production291223\\Message\\Message.csproj",
+        "projectName": "Message",
+        "projectPath": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production291223\\Message\\Message.csproj",
+        "packagesPath": "C:\\Users\\Empleado\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production291223\\Message\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Empleado\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production291223\\BuildDataFromDb\\BuildDataFromDb.csproj": {
+                "projectPath": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production291223\\BuildDataFromDb\\BuildDataFromDb.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[7.0.14, 7.0.14]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[7.0.14, 7.0.14]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[7.0.14, 7.0.14]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production291223\\MiscApp\\MiscApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production291223\\MiscApp\\MiscApp.csproj",
+        "projectName": "MiscApp",
+        "projectPath": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production291223\\MiscApp\\MiscApp.csproj",
+        "packagesPath": "C:\\Users\\Empleado\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production291223\\MiscApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Empleado\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production291223\\ContextDataBase\\ContextDataBase.csproj": {
+                "projectPath": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production291223\\ContextDataBase\\ContextDataBase.csproj"
+              },
+              "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production291223\\Templates\\Templates.csproj": {
+                "projectPath": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production291223\\Templates\\Templates.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[7.0.14, 7.0.14]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[7.0.14, 7.0.14]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[7.0.14, 7.0.14]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production291223\\Templates\\Templates.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production291223\\Templates\\Templates.csproj",
+        "projectName": "Templates",
+        "projectPath": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production291223\\Templates\\Templates.csproj",
+        "packagesPath": "C:\\Users\\Empleado\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production291223\\Templates\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Empleado\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production291223\\ContextDataBase\\ContextDataBase.csproj": {
+                "projectPath": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production291223\\ContextDataBase\\ContextDataBase.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[7.0.14, 7.0.14]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[7.0.14, 7.0.14]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[7.0.14, 7.0.14]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production291223\\Webpuc\\Webpuc.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production291223\\Webpuc\\Webpuc.csproj",
+        "projectName": "Webpuc",
+        "projectPath": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production291223\\Webpuc\\Webpuc.csproj",
+        "packagesPath": "C:\\Users\\Empleado\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production291223\\Webpuc\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Empleado\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production291223\\BuildDataFromDb\\BuildDataFromDb.csproj": {
+                "projectPath": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production291223\\BuildDataFromDb\\BuildDataFromDb.csproj"
+              },
+              "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production291223\\ContextDataBase\\ContextDataBase.csproj": {
+                "projectPath": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production291223\\ContextDataBase\\ContextDataBase.csproj"
+              },
+              "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production291223\\Message\\Message.csproj": {
+                "projectPath": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production291223\\Message\\Message.csproj"
+              },
+              "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production291223\\MiscApp\\MiscApp.csproj": {
+                "projectPath": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production291223\\MiscApp\\MiscApp.csproj"
+              },
+              "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production291223\\Templates\\Templates.csproj": {
+                "projectPath": "C:\\Users\\Empleado\\Documents\\Visual Studio 2022\\0-ProyProduccion\\puntounicocontactov3_Production291223\\Templates\\Templates.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation": {
+              "target": "Package",
+              "version": "[7.0.13, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.13, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.13, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[7.0.14, 7.0.14]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[7.0.14, 7.0.14]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[7.0.14, 7.0.14]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[7.0.14, 7.0.14]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
